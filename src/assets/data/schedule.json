@@ -1,0 +1,111 @@
+[
+    {
+        "day": "1",
+        "date":"Dates",
+        "schedule": [
+            {
+                "startTime": "03:30",
+                "endTime": "04:00",
+                "session": 115
+            },
+            {
+                "startTime": "04:00",
+                "endTime": "5:00",
+                "session": 104
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "06:00",
+                "session": 101
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "07:00",
+                "session": 120
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "08:00",
+                "session": 110
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "09:00",
+                "session": 107
+            }
+        ]
+    },
+    {
+        "day": "2",
+        "date":"Dates",
+        "schedule": [
+            {
+                "startTime": "04:00",
+                "endTime": "05:00",
+                "session": 105
+            },
+            {
+                "startTime": "05:00",
+                "endTime": "06:00",
+                "session": 102
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "07:00",
+                "session": 113
+            },
+            
+            {
+                "startTime": "07:00",
+                "endTime": "08:00",
+                "session": 111
+            },
+            {
+                "startTime": "08:00",
+                "endTime": "09:00",
+                "session": 108
+            }
+        ]
+    },
+    {
+        "day": "3",
+        "date":"Dates",
+        "schedule": [
+            {
+                "startTime": "04:00",
+                "endTime": "05:25",
+                "session": 106
+            },
+            {
+                "startTime": "05:25",
+                "endTime": "06:30",
+                "session": 103
+            },
+            {
+                "startTime": "06:30",
+                "endTime": "07:30",
+                "session": 114
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:30",
+                "session": 112
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "09:25",
+                "session": 109
+            },
+            {
+                "startTime": "09:25",
+                "endTime": "09:45",
+                "session": 121
+            },
+            {
+                "startTime": "09:45",
+                "endTime": "10:00",
+                "session": 122
+            }
+        ]
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "name":"Vidya Pottabattula",
+        "track":"ML"
+    },
+    {
+        "name":"Sparsh Gupta",
+        "track":"ML"
+    },
+    {
+        "name":"Keshani Vyas",
+        "track":"ML"
+    },
+    {
+        "name":"Gokulakannan S",
+        "track":"ML"
+    },
+    {
+        "name":"Nitish Malpotra",
+        "track":"ML"
+    },
+    {
+        "name":"Sagar Pandurang Dhandare",
+        "track":"ML"
+    },
+    {
+        "name":"Tushar Goel",
+        "track":"ML"
+    },
+    {
+        "name":"Kushagra Chaturvedy",
+        "track":"ML"
+    },
+    {
+        "name":"Mohd. Ayan Khan",
+        "track":"ML"
+    },
+    {
+        "name":"Harshit Dave",
+        "track":"ML"
+    },
+    {
+        "name":"Rudrajit Choudhuri",
+        "track":"ML"
+    },
+    {
+        "name":"Srikant Kumar Maharana",
+        "track":"ML"
+    },
+    {
+        "name":"Shivam Rawat",
+        "track":"ML"
+    },
+    {
+        "name":"SIRIGIREDDY DHANA LAXMI",
+        "track":"ML"
+    },
+    {
+        "name":"Gowthami Wudaru",
+        "track":"ML"
+    },
+    {
+        "name":"Akshit Keoliya",
+        "track":"ML"
+    },
+    {
+        "name":"Utsav Ramchandra Khatu",
+        "track":"ML"
+    },
+    {
+        "name":"Kamini Kadhane",
+        "track":"ML"
+    },
+    {
+        "name":"Sourav Prasad",
+        "track":"ML"
+    },
+    {
+        "name":"Anubhab Samal",
+        "track":"ML"
+    },
+    {
+        "name":"Bushra Nousheen",
+        "track":"Mobile"
+    },
+    {
+        "name":"Anunay Maheshwari",
+        "track":"Mobile"
+    },
+    {
+        "name":"Animesh Verma",
+        "track":"Mobile"
+    },
+    {
+        "name":"Aman Irshad",
+        "track":"Mobile"
+    },
+    {
+        "name":"Saurabh Sharma",
+        "track":"Mobile"
+    },
+    {
+        "name":"Ritik Kanotra",
+        "track":"Mobile"
+    },
+    {
+        "name":"Tejendra Singh",
+        "track":"Mobile"
+    },
+    {
+        "name":"Vivek Chaurasia",
+        "track":"Mobile"
+    },
+    {
+        "name":"Monika Singh",
+        "track":"Mobile"
+    },
+    {
+        "name":"Chandeep Singh Gulati",
+        "track":"Mobile"
+    },
+    {
+        "name":"Rishit Dagli",
+        "track":"Mobile"
+    },
+    {
+        "name":"Bhumika Joshi",
+        "track":"Mobile"
+    },
+    {
+        "name":"Kavya P S",
+        "track":"Mobile"
+    },
+    {
+        "name":"Iresh Sharma",
+        "track":"Mobile"
+    },
+    {
+        "name":"Aavesh Kumar Sinha",
+        "track":"Mobile"
+    },
+    {
+        "name":"Shubham Bundela",
+        "track":"Mobile"
+    },
+    {
+        "name":"Aditya Gupta",
+        "track":"Mobile"
+    },
+    {
+        "name":"Chaitanya Kumar Behara",
+        "track":"Mobile"
+    },
+    {
+        "name":"Amita Modi",
+        "track":"Mobile"
+    },
+    {
+        "name":"Muthukrishna",
+        "track":"Mobile"
+    },
+    {
+        "name":"Aloke Tewary",
+        "track":"Web"
+    },
+    {
+        "name":"Gaurav Bhagwanani",
+        "track":"Web"
+    },
+    {
+        "name":"Alok Sahoo",
+        "track":"Web"
+    },
+    {
+        "name":"Somsubhra Das",
+        "track":"Web"
+    },
+    {
+        "name":"Sk Shahnawaz",
+        "track":"Web"
+    },
+    {
+        "name":"Amsavarthan Lv",
+        "track":"Web"
+    },
+    {
+        "name":"Aakarsh Baiju",
+        "track":"Web"
+    },
+    {
+        "name":"Rahul Karmakar",
+        "track":"Web"
+    },
+    {
+        "name":"Ishaan Billa",
+        "track":"Web"
+    },
+    {
+        "name":"Sumitkumar Shamrao Kanoje",
+        "track":"Web"
+    },
+    {
+        "name":"Harsh Vardhan Gautam",
+        "track":"Web"
+    },
+    {
+        "name":"Shardul Nalegave",
+        "track":"Web"
+    },
+    {
+        "name":"Milan Jain",
+        "track":"Web"
+    },
+    {
+        "name":"Abhinav Kumar",
+        "track":"Web"
+    },
+    {
+        "name":"Apoorva Kadam",
+        "track":"Web"
+    },
+    {
+        "name":"Pooja Gera",
+        "track":"Web"
+    },
+    {
+        "name":"Suresh Kumar",
+        "track":"Web"
+    },
+    {
+        "name":"Dibyanshu Gautam",
+        "track":"Web"
+    },
+    {
+        "name":"Devashree Hingne",
+        "track":"Web"
+    },
+    {
+        "name":"Jayant Ojha",
+        "track":"Web"
+    },
+    {
+        "name":"Sharath Sreekumar",
+        "track":"Cloud"
+    },
+    {
+        "name":"Shruti Chaturvedi",
+        "track":"Cloud"
+    },
+    {
+        "name":"SUTAPA DUTTA",
+        "track":"Cloud"
+    },
+    {
+        "name":"Valerian Pereira",
+        "track":"Cloud"
+    },
+    {
+        "name":"Akshay Desai",
+        "track":"Cloud"
+    },
+    {
+        "name":"Hrishabh Digaari",
+        "track":"Cloud"
+    },
+    {
+        "name":"Debal Bhattacharya",
+        "track":"Cloud"
+    },
+    {
+        "name":"Amol Borkar",
+        "track":"Cloud"
+    },
+    {
+        "name":"Heet Sheth",
+        "track":"Cloud"
+    },
+    {
+        "name":"Mangilipally Hari Prasad",
+        "track":"Cloud"
+    },
+    {
+        "name":"Aayush Srivastava",
+        "track":"Cloud"
+    },
+    {
+        "name":"Mayur Ganesh Narkhede",
+        "track":"Cloud"
+    },
+    {
+        "name":"Maneesh Manoj",
+        "track":"Cloud"
+    },
+    {
+        "name":"Subham Sahu",
+        "track":"Cloud"
+    },
+    {
+        "name":"Swastik Malakar",
+        "track":"Cloud"
+    },
+    {
+        "name":"Soham Malakar",
+        "track":"Cloud"
+    },
+    {
+        "name":"Kotharu Shanmukh Kiran",
+        "track":"Cloud"
+    },
+    {
+        "name":"Priyanka Garg",
+        "track":"Cloud"
+    },
+    {
+        "name":"Akshita Awasthi",
+        "track":"Cloud"
+    },
+    {
+        "name":"Debargha Mukherjee",
+        "track":"Cloud"
+    }
+]

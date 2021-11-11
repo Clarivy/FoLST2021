@@ -1,0 +1,114 @@
+[
+    {
+        "track":"Mobile",
+        "github":"http://bit.ly/devfestIN-MobileRepo",
+        "desc":"<p>We will build a clone of BookMyShow App using UI basics, loading dynamic content from the server and how to make the app available run offline.</p>",
+        "tools":[
+            { "name":"Stable internet connection" },
+            { "name":"Android studio 4.0.1" },
+            { "name":"Java 8" },
+            { "name":"Android device to run app" },
+            { "name":"Emulator / Device for running app <a href='https://developer.android.com/studio/run/emulator' target='_blank'>(https://developer.android.com/studio/run/emulator)</a>" }
+        ],
+        "instruction":"<p>Each session requires you to copy-paste a few files. Please find the gist of all files required session wise below.</p>",
+        "day1":[
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/ea05cdeb8471ca028dd361e53512189e'>build.gradle</a> file"},
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/914d9e57980d2d6979c43a8653308e7b'>colors.xml</a> file"},
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/64b6a8331b3f4d436ae499b9700ac1f4'>activity_main.xml</a> file"}
+        ],
+        "day2":[
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/53020459385422686b025007a3cfc944'>API key instructions</a> file"},
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/4b27d42dc2ee8c24f21cbd5ae20d4f03'>Movie.kt</a> file"},
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/18ec984f6bea85337eab1770900c65aa'>NetworkHelper.kt</a> file"},
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/9d14a83a4f2dc4767d987e1b8aabb85e'>URLs.txt</a> file"}
+        ],
+        "day3":[
+            {"name":"<a target='_blank' href='https://gist.github.com/sagar-viradiya/ce8f765f072e38ad92d84a4b34add0f4'>MovieTypeConverter.kt</a> file"}
+        ]        
+    },
+    {
+        "track":"Web",
+        "github":"https://github.com/DevFest-India/Fiery-Pokemon-DevFestIndia",
+        "desc":"<p>We will build a cute Pokemon website from scratch. It'd be more than just a plain site. It'd be Fast, Integrated, Reliable and Engaging Progressive Web App deployed over FIRE base!</p>",
+        "tools":[
+            { "name":"VS Code Editor (Preferable IDE)" },
+            { "name":"NodeJS (LTS Version) (v10.13 or 12) // you can use nvm for the same" },
+            { "name":"Angular CLI (npm install -g @angular/cli)" },
+            { "name":"Firebase CLI (npm install -g firebase-tools)" },
+            { "name":"GitHub Account" }
+        ],
+        "instruction":"<p>Basic knowledge of HTML, CSS & JavaScript</p>",
+        "day1":[
+        ],
+        "day2":[
+        ],
+        "day3":[
+        ]        
+    },
+    {
+        "track":"Cloud",
+        "github":"",
+        "desc":"<p>We will take you through a tour of GCP and follow it by a demonstration on deploying applications and finally conclude with analysing big data and building ML models using BigQuery, all on Google Cloud.</p>",
+        "tools":[
+        ],
+        "instruction":"",
+        "day1":[
+            {"name":"Cloud Billing Account"},
+            {"name":"Google Cloud Project"}
+        ],
+        "day2":[
+            {"name":"Concept of containerisation"},
+            {"name":"Basic Knowledge of basic GCP APIs and Services"},
+            {"name":"Google Cloud Project with billing enabled"}
+        ],
+        "day3":[
+            {"name":"Basic SQL Syntax"},
+            {"name":"Basic information on what machine learning model to use when"},
+            {"name":"Google Cloud Project with billing enabled"}
+        ]        
+    },
+    {
+        "track":"ML",
+        "github":"https://github.com/bhavaniravi/mlops-with-dvc",
+        "desc":"<p>We will build an end to end predictive model pipeline using colab then will learn to use DevOps for ML and conclude it with an image classification case study to classify tumors in health reports using TensorFlow</p>",
+        "tools":[
+        ],
+        "instruction":"<p>No software installation is required . Good internet connection is required since the demo is using Kaggle platform.</p>",
+        "day1":[
+            { "name":"<a target='_blank' href='https://bit.ly/df20MLBeginner'>Colab</a> Link"},
+            { "name":"<a target='_blank' href='https://www.kaggle.com/c/nyc-taxi-trip-duration/data'>Data Set </a> Link"},
+            { "name":"Prior programming experience with Python"}
+        ],
+        "day2":[
+            { "name":"Git "},
+            { "name":"Building a basic machine learning model" },
+            { "name":"Understanding of CI/CD pipeline " },
+            { "name":"<a target='_blank' href='https://github.com/bhavaniravi/mlops-with-dvc'>Download the repo</a>"},
+            { "name":"Docker & Kubernetes is a plus (if not you can learn it via implementing this project)"}
+        ],
+        "day3":[
+            { "name":"Prior programming experience with Python and TensorFlow APIs "},
+            { "name":"Good Understanding of Deep Learning." },
+            { "name":"The Kaggle notebook used in the workshop and articles on how to use Kaggle will be shared in this <a target='_blank' href='https://github.com/ushareng/DevFestIndia-ML-AdvancedTrack'>Github Repo</a>" }
+        ]        
+    },
+    {
+        "track":"Flutter",
+        "github":"https://github.com/DevFest-India/devfest-india-flutter-track/tree/day1",
+        "desc":"<p>We will build a cross-platform application covering the concepts of UI development with responsive layouts, navigation concepts and API management.</p>",
+        "tools":[
+            { "name":"Android Studio / VSCode <a href='https://developer.android.com/studio' target='_blank'>(https://developer.android.com/studio)</a>"},
+            { "name":"Flutter installed correctly <a href='https://flutter.dev/docs/get-started/install' target='_blank'>(https://flutter.dev/docs/get-started/install)</a>"},
+            { "name":"Flutter and Dart plugins installed <a href='https://flutter.dev/docs/get-started/editor' target='_blank'>(https://flutter.dev/docs/get-started/editor)</a>"},
+            { "name":"Emulator / Device for running app <a href='https://developer.android.com/studio/run/emulator' target='_blank'>(https://developer.android.com/studio/run/emulator)</a>"}
+        ],
+        "instruction":"<p>Basic knowledge of Dart <a href='https://dart.dev/guides' target='_blank'>(https://dart.dev/guides)</a></p>",
+        "day1":[
+            
+        ],
+        "day2":[
+        ],
+        "day3":[
+        ]        
+    }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "name": "GDG Ahmedabad",
+    "city": "Ahmedabad",
+    "logo": "gdgahmedabad.jpg",
+    "link": "https://gdg.community.dev/gdg-ahmedabad/"
+  },
+  {
+    "name": "GDG Bangalore",
+    "city": "Bangalore",
+    "logo": "gdgbangalore.jpg",
+    "link": "https://gdg.community.dev/gdg-bangalore/"
+  },
+  {
+    "name": "GDG Bhilai",
+    "city": "Bhilai",
+    "logo": "gdgbhilai.jpg",
+    "link": "https://gdg.community.dev/gdg-bhilai/"
+  },
+  {
+    "name": "GDG Bhopal",
+    "city": "Bhopal",
+    "logo": "gdgbhopal.jpg",
+    "link": "https://gdg.community.dev/gdg-bhopal/"
+  },
+  {
+    "name": "GDG Bhubaneswar",
+    "city": "Bhubaneswar",
+    "logo": "gdgbhubaneswar.jpg",
+    "link": "https://gdg.community.dev/gdg-bhubaneswar/"
+  },
+  {
+    "name": "GDG Blrdroid",
+    "city": "Bangalore",
+    "logo": "gdgblrdroid.jpg",
+    "link": "https://gdg.community.dev/gdg-blrdroid/"
+  },
+  {
+    "name": "GDG Chandigarh",
+    "city": "Chandigarh",
+    "logo": "gdgchandigarh.jpg",
+    "link": "https://gdg.community.dev/gdg-chandigarh/"
+  },
+  {
+    "name": "GDG Chennai",
+    "city": "Chennai",
+    "logo": "gdgchennai.jpg",
+    "link": "https://gdg.community.dev/gdg-chennai/"
+  },
+  {
+    "name": "GDG Cloud Ahmedabad",
+    "city": "Ahmedabad",
+    "logo": "gdgcloudahmedabad.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-ahmedabad/"
+  },
+  {
+    "name": "GDG Cloud Bengaluru",
+    "city": "Bengaluru",
+    "logo": "gdgcloudbengaluru.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-bengaluru/"
+  },
+  {
+    "name": "GDG Cloud Bhubaneswar",
+    "city": "Bhubaneswar",
+    "logo": "gdgcloudbhubaneswar.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-bhubaneswar/"
+  },
+  {
+    "name": "GDG Cloud Chennai",
+    "city": "Chennai",
+    "logo": "gdgcloudchennai.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-chennai/"
+  },
+  {
+    "name": "GDG Cloud Coimbatore",
+    "city": "Coimbatore",
+    "logo": "gdgcloudcoimbatore.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-coimbatore/"
+  },
+  {
+    "name": "GDG Cloud Indore",
+    "city": "Indore",
+    "logo": "gdgcloudindore.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-indore/"
+  },
+  {
+    "name": "GDG Cloud Kolkata",
+    "city": "Kolkata",
+    "logo": "gdgcloudkolkata.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-kolkata/"
+  },
+  {
+    "name": "GDG Cloud Mumbai",
+    "city": "Mumbai",
+    "logo": "gdgcloudmumbai.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-mumbai/"
+  },
+  {
+    "name": "GDG Cloud New Delhi",
+    "city": "New Delhi",
+    "logo": "gdgcloudnewdelhi.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-new-delhi/"
+  },
+  {
+    "name": "GDG Cloud Hyderabad",
+    "city": "Hyderabad",
+    "logo": "gdgcloudhyderabad.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-hyderabad/"
+  },
+  {
+    "name": "GDG Cloud Pune",
+    "city": "Pune",
+    "logo": "gdgcloudpune.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-pune/"
+  },
+  {
+    "name": "GDG Cochin",
+    "city": "Cochin",
+    "logo": "gdgcochin.jpg",
+    "link": "https://gdg.community.dev/gdg-cochin/"
+  },
+  {
+    "name": "GDG Coimbatore",
+    "city": "Coimbatore",
+    "logo": "gdgcoimbatore.jpg",
+    "link": "https://gdg.community.dev/gdg-coimbatore/"
+  },
+  {
+    "name": "GDG Gandhinagar",
+    "city": "Gandhinagar",
+    "logo": "gdggandhinagar.jpg",
+    "link": "https://gdg.community.dev/gdg-gandhinagar/"
+  },
+  {
+    "name": "GDG Goa",
+    "city": "Goa",
+    "logo": "gdggoa.jpg",
+    "link": "https://gdg.community.dev/gdg-goa/"
+  },
+  {
+    "name": "GDG Gwalior",
+    "city": "Gwalior",
+    "logo": "gdggwalior.jpg",
+    "link": "https://gdg.community.dev/gdg-gwalior/"
+  },
+  {
+    "name": "GDG Hubli",
+    "city": "Hubli",
+    "logo": "gdghubli.jpg",
+    "link": "https://gdg.community.dev/gdg-hubli/"
+  },
+  {
+    "name": "GDG Hyderabad",
+    "city": "Hyderabad",
+    "logo": "gdghyderabad.jpg",
+    "link": "https://gdg.community.dev/gdg-hyderabad/"
+  },
+  {
+    "name": "GDG Indore",
+    "city": "Indore",
+    "logo": "gdgindore.jpg",
+    "link": "https://gdg.community.dev/gdg-indore/"
+  },
+  {
+    "name": "GDG Jaipur",
+    "city": "Jaipur",
+    "logo": "gdgjaipur.jpg",
+    "link": "https://gdg.community.dev/gdg-jaipur/"
+  },
+  {
+    "name": "GDG Jalandhar",
+    "city": "Jalandhar",
+    "logo": "gdgjalandhar.jpg",
+    "link": "https://gdg.community.dev/gdg-jalandhar/"
+  },
+  {
+    "name": "GDG Kolkata",
+    "city": "Kolkata",
+    "logo": "gdgkolkata.jpg",
+    "link": "https://gdg.community.dev/gdg-kolkata/"
+  },
+  {
+    "name": "GDG Kozhikode",
+    "city": "Kozhikode",
+    "logo": "gdgkozhikode.jpg",
+    "link": "https://gdg.community.dev/gdg-kozhikode/"
+  },
+  {
+    "name": "GDG MAD",
+    "city": "MAD",
+    "logo": "gdgmad.jpg",
+    "link": "https://gdg.community.dev/gdg-mad/"
+  },
+  {
+    "name": "GDG Madurai",
+    "city": "Madurai",
+    "logo": "gdgmadurai.jpg",
+    "link": "https://gdg.community.dev/gdg-madurai/"
+  },
+  {
+    "name": "GDG Nagpur",
+    "city": "Nagpur",
+    "logo": "gdgnagpur.jpg",
+    "link": "https://gdg.community.dev/gdg-nagpur/"
+  },
+  {
+    "name": "GDG Nashik",
+    "city": "Nashik",
+    "logo": "gdgnashik.jpg",
+    "link": "https://gdg.community.dev/gdg-nashik/"
+  },
+  {
+    "name": "GDG New Delhi",
+    "city": "New Delhi",
+    "logo": "gdgnewdelhi.jpg",
+    "link": "https://gdg.community.dev/gdg-new-delhi/"
+  },
+  {
+    "name": "GDG Patna",
+    "city": "Patna",
+    "logo": "gdgpatna.jpg",
+    "link": "https://gdg.community.dev/gdg-patna/"
+  },
+  {
+    "name": "GDG Rajkot",
+    "city": "Rajkot",
+    "logo": "gdgrajkot.jpg",
+    "link": "https://gdg.community.dev/gdg-rajkot/"
+  },
+  {
+    "name": "GDG Ranchi",
+    "city": "Ranchi",
+    "logo": "gdgranchi.jpg",
+    "link": "https://gdg.community.dev/gdg-ranchi/"
+  },
+  {
+    "name": "GDG Siliguri",
+    "city": "Siliguri",
+    "logo": "gdgsiliguri.jpg",
+    "link": "https://gdg.community.dev/gdg-siliguri/"
+  },
+  {
+    "name": "GDG Srinagar",
+    "city": "Srinagar",
+    "logo": "gdgsrinagar.jpg",
+    "link": "https://gdg.community.dev/gdg-srinagar/"
+  },
+  {
+    "name": "GDG Thiruvananthapuram",
+    "city": "Thiruvananthapuram",
+    "logo": "gdgthiruvananthapuram.jpg",
+    "link": "https://gdg.community.dev/gdg-thiruvananthapuram/"
+  },
+  {
+    "name": "GDG Udaipur",
+    "city": "Udaipur",
+    "logo": "gdgudaipur.jpg",
+    "link": "https://gdg.community.dev/gdg-udaipur/"
+  },
+  {
+    "name": "GDG Mysuru",
+    "city": "Mysuru",
+    "logo": "gdgmysuru.jpg",
+    "link": "https://gdg.community.dev/gdg-mysuru/"
+  },
+  {
+    "name": "GDG Vizag",
+    "city": "Vizag",
+    "logo": "gdgvizag.jpg",
+    "link": "https://gdg.community.dev/gdg-vizag/"
+  },
+  {
+    "name": "GDG Surat",
+    "city": "Surat",
+    "logo": "gdgsurat.jpg",
+    "link": "https://gdg.community.dev/gdg-surat/"
+  },
+  {
+    "name": "GDG Pune",
+    "city": "Pune",
+    "logo": "gdgpune.jpg",
+    "link": "https://gdg.community.dev/gdg-pune/"
+  },
+  {
+    "name": "GDG Jodhpur",
+    "city": "Jodhpur",
+    "logo": "gdgjodhpur.jpg",
+    "link": "https://gdg.community.dev/gdg-jodhpur/"
+  },
+  {
+    "name": "GDG Baroda",
+    "city": "Baroda",
+    "logo": "gdgbaroda.jpg",
+    "link": "https://gdg.community.dev/gdg-baroda/"
+  },
+  {
+    "name": "GDG Cloud Jaipur",
+    "city": "Jaipur",
+    "logo": "gdgcloudjaipur.jpg",
+    "link": "https://gdg.community.dev/gdg-cloud-jaipur/"
+  },
+  {
+    "name": "GDG Salem",
+    "city": "Salem",
+    "logo": "gdgsalem.jpg",
+    "link": "https://gdg.community.dev/gdg-salem/"
+  }
+]

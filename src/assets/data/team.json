@@ -1,0 +1,1941 @@
+[
+    {
+      "name": "Bhavani Ravi",
+      "community": {
+        "name": "Web",
+        "designation": "hHAHAH"
+      },
+      "company": {
+        "name": "GDG Chennai",
+        "designation": "GDG, WTM Ambassador"
+      },
+      "image": "profile.jpg",
+      "bio": "Research Engineer at saama Technologies, Converts ML models to cloud based systems",
+      "social": {
+        "twitter": "https://twitter.com/geeky_bhavani",
+        "linkedin": "https://linkedin.com/in/bhavanir"
+      }
+    },
+    {
+        "name": "Virat Patel",
+        "community": {
+          "name": "GDG Rajkot",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "MonkDots",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "Believe in building the relationship (Family), listen first act together! always appreciates tiny & big efforts by the community, I just love to make things in structured and organised. Feedbacks are an important part of my life. it helps me to learn more and grow. finding gaps in the team and filling them with a perfect piece are my ways to get started! as per me a person who does things out of comfort zone is actual growth. \"always find the gem inside someone. polish them and let them shine\" keeps motivating me ultimately I want to work with the community, not want from them, walk beside!",
+        "social": {
+          "twitter": "https://twitter.com/patel_virat",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Gaurav Rawal",
+        "community": {
+          "name": "GDG New Delhi",
+          "designation": ""
+        },
+        "company": {
+          "name": "Unilodgers",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "A sophisticated person and a tech enthusiast, with a motive to help community and its members grow.",
+        "social": {
+          "twitter": "https://twitter.com/iamgrawal",
+          "linkedin": "https://linkedin.com/in/iamgrawal"
+        }
+      },
+      {
+        "name": "Adeen Shukla",
+        "community": {
+          "name": "GDG Indore",
+          "designation": "Co-organizer"
+        },
+        "company": {
+          "name": "NA",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "As a community leader, my goal has always been to act as a bridge between the beginners and the more experienced folks. I've been working as a part of GDG Indore for over 2 years now, transitioning from an attendee, to a volunteer, and now an organizing team member. Throughout these years, my focus has always been on connecting with the people and learning from new experiences, while simultaneously sharing my experiences with them.",
+        "social": {
+          "twitter": "https://twitter.com/AdeenShukla",
+          "linkedin": "https://linkedin.com/in/adeen-s"
+        }
+      },
+      {
+        "name": "Ali Mustufa Shaikh",
+        "community": {
+          "name": "GDG Cloud Mumbai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "APSIT Skills",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "I Build Human Network; Not Computer one's as they are crazy and messy :p\n\nI am a 23yr old with a vision to make students realize their potential and rise above the bar of college curriculum and experiment while they study so that they don't waste their professional years doing so!\n\nThe Idea is to make more Leaders and not merely followers! and to keep that alive I regularly interact with a lot of students and developers who have the potential, who are doing exceptional things.\n\nI have travelled to 38 cities in India and gave 100+ sessions talking about Machine Learning, Crowdsourcing and chatbots and blockchain.\n",
+        "social": {
+          "twitter": "https://twitter.com/ialimustufa",
+          "linkedin": "https://www.linkedin.com/in/ialimustufa/"
+        }
+      },
+      {
+        "name": "Siddarth Kengadaran",
+        "community": {
+          "name": "GDG Coimbatore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "ThoughtWorks",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "User Experience Designer and Product Enthusiast. Enabling teams to strategize and build human-centered experiences.",
+        "social": {
+          "twitter": "https://twitter.com/s1dd4rth",
+          "linkedin": "https://www.linkedin.com/in/siddarthkengadaran/"
+        }
+      },
+      {
+        "name": "Vishal Pathik Gupta",
+        "community": {
+          "name": "GDG Bangalore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Jovian.ml",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "I have been organizing events at GDG Bangalore since 2011 and its my passion to bring the developer community together and to enable them with the right tools and learning so that they feel confident building great products wherever they go.",
+        "social": {
+          "twitter": "https://twitter.com/VishalPathik",
+          "linkedin": "https://www.linkedin.com/in/vishalpathikgupta/"
+        }
+      },
+      {
+        "name": "Harsh Akshit",
+        "community": {
+          "name": "GDG Ranchi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "Give it to community and the community gives it back to you with love and respect.\n",
+        "social": {
+          "twitter": "https://twitter.com/marshmello_in",
+          "linkedin": "https://www.linkedin.com/in/harshakshit/"
+        }
+      },
+      {
+        "name": "Suparna J",
+        "community": {
+          "name": "GDG/WTM Kozhikode",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "QBurst",
+          "designation": "Senior Engineer"
+        },
+        "image": "profile.jpg",
+        "bio": "She is a passionate developer currently working with Machine Learning and Backend Technologies. She is also working closely with developer communities and enjoys her roles as GDG Co-organizer, TFUG Co-organizer & WTM Ambassador.",
+        "social": {
+          "twitter": "https://twitter.com/suparnajtk",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Sagar Viradiya",
+        "community": {
+          "name": "GDG Mumbai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "BookMyShow",
+          "designation": "Android Engineer"
+        },
+        "image": "profile.jpg",
+        "bio": "I'm the new Avenger in GDG, Spider man. Lot to learn from Iron man and other avengers :P",
+        "social": {
+          "twitter": "https://twitter.com/viradiya_sagar",
+          "linkedin": "https://www.linkedin.com/in/sagarviradiya/"
+        }
+      },
+      {
+        "name": "Praveen Thirumurugan",
+        "community": {
+          "name": "GDG Cloud Coimbatore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Pupl",
+          "designation": "CEO"
+        },
+        "image": "profile.jpg",
+        "bio": "Praveen is known to connect 1000s of students and professionals in the Coimbatore community with the latest technologies in and out of Google and others. With expertise on Google Cloud and other general cloud technologies, he is also an inspiration to many startups and entrepreneurs.",
+        "social": {
+          "twitter": "https://twitter.com/praveentcom",
+          "linkedin": "https://linkedin.com/in/praveentcom"
+        }
+      },
+      {
+        "name": "Amalu Susan Santhosh",
+        "community": {
+          "name": "GDG Cochin",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },
+        "image": "profile.jpg",
+        "bio": "I’m interested in solving problems within my community and bringing in more diversity.",
+        "social": {
+          "twitter": "https://twitter.com/susan_amalu",
+          "linkedin": "https://in.linkedin.com/in/amalu-susan-santhosh"
+        }
+      },
+      {
+        "name": "Dharmesh Vaya",
+        "community": {
+          "name": "GDG Cloud Mumbai",
+          "designation": "GDE"
+        },
+        "company": {
+          "name": "Agrahyah Technologies",
+          "designation": "Director - Technology"
+        },
+        "image": "profile.jpg",
+        "bio": "Dharmesh is a Google Developer Expert for Google Cloud Platform and actively manages Google Cloud Developers Community, Mumbai. He speaks at various conferences and mentors Students, Young Professionals/Startups as well as local businesses on Cloud Technologies using the Google Cloud Platform and Open Source technologies.",
+        "social": {
+          "twitter": "https://twitter.com/DRVaya",
+          "linkedin": "https://in.linkedin.com/in/dharmeshvaya"
+        }
+      },
+      {
+        "name": "Prateek Pandey",
+        "community": {
+          "name": "GDG Cloud Hyderabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Letsmobility Software Solution (p) Ltd",
+          "designation": "Co-Founder"
+        },
+        "image": "profile.jpg",
+        "bio": "I joined this position in 2018 as a Lead for GDG Cloud, Hyderabad. Prior to this i used to work with other local community and GDG Hyderabad as Volunteer. As soon as I came across this challenge we as team of 4 person started concentrating on the topics needed to be checked by the people only on specific topics that is concentrated towards Cloud and Machine Learning (As was the requirement of the time then and now). Then we hosted some common goal event with DevRel India like Study Jam, Cloud Day, etc as highlights. Three hackathon, monthly meetup were the other highlights of the team including the Devfest Cloud Tracks. Now during this pandemic too few of us also tried helping people by counselling them one to one and helped them to get them jobs by guiding them when ever people reached out to us. Now we are looking forward for reinitiate the monthly sessions soon with some golden topics that been suggested by the people in community.",
+        "social": {
+          "twitter": "https://twitter.com/prateek_cr",
+          "linkedin": "https://www.linkedin.com/in/prateek-cr/"
+        }
+      },
+      {
+        "name": "Poornima",
+        "community": {
+          "name": "GDG Kozhikode",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Glaubetech",
+          "designation": "Software engineer"
+        },
+        "image": "profile.jpg",
+        "bio": "I am the one who loves techies and tech talks, That is why I benefited a lot from the community. At the starting stage of my community activities, it was like catching a lost a dream. Because in my college time I wished and dreamed about being a part of something where I can learn technology, meet people who love to share their knowledge, help people who wish to learn something new, meet some like-minded people, where I can expose and explore my abilities to communicate and organise. Entering into fulfilled that dream.\nMost of the time I can see myself in many of the participants in community events; Being a community leader it made me happy, that I am giving that platform to somebody, which I missed once in my life.\nI am always learning from the community. Each person I met through community events were special. \nAlso keeping in touch with the people who love technology helps me to get updated with technology. (especially regional Gdg WhatsApp group).\nAlso, I found community is a place where we can share opportunities and make a difference in others lives.",
+        "social": {
+          "twitter": "https://twitter.com/_poornima_sudha",
+          "linkedin": "https://www.linkedin.com/in/poornima-s-350704130"
+        }
+      },
+      {
+        "name": "Pranay Nanda",
+        "community": {
+          "name": "GDG Cloud New Delhi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "MediaAgility",
+          "designation": "Technical Lead"
+        },
+        "image": "profile.jpg",
+        "bio": "From not knowing anything about communities to leading them, the journey has quite been exciting. After my Google Cloud certifications, I was looking for other people within the city to talk about Google Cloud and Google Cloud Certifications that led me to a 3 weeks MLCC Bootcamp with GDG Cloud New Delhi. That was my first meetup and first GDG Cloud New Delhi event. By the end of third week, while everyone was packing up I went to the organisers and asked if I could volunteer. Fast-forward 4 months, I was the organizer of GDG Cloud New Delhi. Since then, I've met people for whom 'amazing' as a word doesn't even begin to describe their best attributes. I have interacted with people from all walks of life, from students to CEOs. I had never been a speaker and yet I've spoken at places I never though I could and all of for the smiles and gratitude at the end of each event that warm my heart and fill it with exhilaration. Communities are about finding people; I'm glad I found mine and so can everyone.",
+        "social": {
+          "twitter": "https://twitter.com/ipranaynanda",
+          "linkedin": "https://linkedin.com/in/ipranaynanda"
+        }
+      },
+      {
+        "name": "Shilpa Garg",
+        "community": {
+          "name": "GDG/WTM New Delhi",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Magic Software",
+          "designation": "Lead AI Consultant"
+        },
+        "image": "profile.jpg",
+        "bio": "I am Software Engineer presently working in the field of Machine Learning(NLP). She is a Tech Speaker, #IamRearkable Facilitator, Google MLCC Facilitator, python mentor at 1 million Women to Tech by Oxford Entreprenurers & presently working as Lead AI Consultant in Edtech. Company, with a total experience of 5+ years in the Industry. I strongly believe Equality of every gender , religion, community. I love to meet new people & socialize",
+        "social": {
+          "twitter": "https://twitter.com/shilpa1994",
+          "linkedin": "https://www.linkedin.com/in/shilpagarg13/"
+        }
+      },
+      {
+        "name": "Jigar Navadiya",
+        "community": {
+          "name": "GDG Cloud Ahmedabad",
+          "designation": ""
+        },
+        "company": {
+          "name": "DXFactor",
+          "designation": "Data Engineering Lead"
+        },
+        "image": "profile.jpg",
+        "bio": "Help, collaborate & co-learn with the Cloud enthusiastic community members. \nPassionate about the data engineering technologies & share knowledge with community as when I get the opportunity.",
+        "social": {
+          "twitter": "https://twitter.com/JBNavadiya",
+          "linkedin": "https://www.linkedin.com/in/jigarnavadiya/"
+        }
+      },
+      {
+        "name": "Arun Ravindranath",
+        "community": {
+          "name": "GDG Kozhikode",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Qkopy",
+          "designation": "Software Architect"
+        },
+        "image": "profile.jpg",
+        "bio": "FullStack Dreamer | Learner | Developer",
+        "social": {
+          "twitter": "https://twitter.com/iarunr_",
+          "linkedin": "https://www.linkedin.com/in/iarunr"
+        }
+      },
+      {
+        "name": "Yatendrasinh Joddha",
+        "community": {
+          "name": "GDG Gandhinagar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "TCS",
+          "designation": "Tech Lead"
+        },
+        "image": "profile.jpg",
+        "bio": "An enthusiastic developer who never back down.",
+        "social": {
+          "twitter": "https://twitter.com/yatendrasinh?s=09",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Supriya Shashivasan",
+        "community": {
+          "name": "GDG Hubli",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Sony",
+          "designation": "Information security engineer"
+        },
+        "image": "profile.jpg",
+        "bio": "Being a part of community is a blessing. You get to meet such great talents and there is constant learning and development in such a community. My experience being a community leader has been remarkable! Helping people get the resources they need, motivating them to being great leaders and following their dreams has been awesome experience. I aim to keep this zeal and enthusiasm up for as long as it takes as being a community leader has been one of the highlights of my life.",
+        "social": {
+          "twitter": "https://twitter.com/s_omeal",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Harsh Shah",
+        "community": {
+          "name": "GDG Cloud Ahmedabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Pedalsup",
+          "designation": "CTO"
+        },
+        "image": "profile.jpg",
+        "bio": "I am a self-taught Full Stack Developer, Currently working at Startup Called “Pedalsup” as a CTO.\nCommunity contributor, I am an Organizer of GDG Cloud Ahmedabad and Pydata Ahmedabad.\nI was a two-time GSoC-er (Google Summer of Code ) under the organization “Wikimedia” & “KDE”. I was also part of the MIT Media Lab India Initiative 2015. Active Open-Source Contributor. \n\nAlso, a tech speaker at many meetups and places like Facebook Dev Circle Ahmedabad, Hyderabad,  India web community lead summit Google at Google Bangalore. Girls Script Chapter Anand, GDG Udaipur, GDG Cloud Ahmedabad many more places.\n\nHackathon freak selected in many hackathons likes  Junction Tokyo,  Inout 4.0 , MHacks USA, Junction Helsinki, Finland.\n\nI was also worked with various startups like “Shopper.ai”, “Elementor - Page Builder”, “Poshaq”  & “Mokko”. ",
+        "social": {
+          "twitter": "https://twitter.com/harshcrop",
+          "linkedin": "https://linkedin.com/in/harshcrop"
+        }
+      },
+      {
+        "name": "Navaneeth kt",
+        "community": {
+          "name": "GDG Kozhikode",
+          "designation": ""
+        },
+        "company": {
+          "name": "Nysaclan",
+          "designation": "Deep Learning engineer"
+        },
+        "image": "profile.jpg",
+        "bio": "I have been contributing to various tech communities for about 4 years. Actively co organizing GDG kozhikode and TFUG kozhikode.",
+        "social": {
+          "twitter": "https://twitter.com/navan0",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Arif Khoja",
+        "community": {
+          "name": "GDG Gandhinagar",
+          "designation": ""
+        },
+        "company": {
+          "name": "Tata consultancy services",
+          "designation": "IT Analyst"
+        },
+        "image": "profile.jpg",
+        "bio": "A tech enthusiast with experience in open source tech and a developer cum speaker who has worked on many opensource technologies",
+        "social": {
+          "twitter": "https://twitter.com/arifkhoja_",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Namrata More",
+        "community": {
+          "name": "GDG Pune",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Exaltare Technologies",
+          "designation": "Jr. Product Manager"
+        },  
+        "image": "profile.jpg",
+        "bio": "I'm a Women TechMakers Pune Ambassador, love to share ideas, have been speaking in DevFest India wise, also a product enthusiast, fond of design & UX, exploring tech and love to be around communities, sharing & acquiring knowledge being a mentor, a lead, an ambassador & a blogger!",
+        "social": {
+          "twitter": "https://twitter.com/namratamore_nm",
+          "linkedin": "https://www.linkedin.com/in/namratamore-nm/"
+        }
+      },
+      {
+        "name": "Priya A. Tiru",
+        "community": {
+          "name": "GDG Hubli",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "I am a people person. I love meeting new people and learning about their lives and their backgrounds. I had been volunteering my community for past one year now and since then I have always wanted and worked for it's betterment. Looking forward for many more contributions to the community. :)",
+        "social": {
+          "twitter": "https://twitter.com/m__pria",
+          "linkedin": "https://www.linkedin.com/in/priyatiru/"
+        }
+      },
+      {
+        "name": "Shreyansh Jain",
+        "community": {
+          "name": "GDG Bhilai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Riverhouse Technologies LLP",
+          "designation": "Tech Lead"
+        },  
+        "image": "profile.jpg",
+        "bio": "Tech Enthusiast, Believes in \"Team Work brings Dream Work\".",
+        "social": {
+          "twitter": "https://twitter.com/bafna_sb",
+          "linkedin": "https://www.linkedin.com/in/jshreyansh"
+        }
+      },
+      {
+        "name": "Vrijraj Singh",
+        "community": {
+          "name": "GDG Jalandhar",
+          "designation": "GDE/Organizer"
+        },
+        "company": {
+          "name": "GDG Jalandhar",
+          "designation": "Organizer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. <br><br>He has given 80+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and  nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+        "social": {
+          "twitter": "https://twitter.com/VrijrajSingh",
+          "linkedin": "https://www.linkedin.com/in/vrijraj/"
+        }
+      },
+      {
+        "name": "Varsha Jaiswal",
+        "community": {
+          "name": "GDG WTM Jalandhar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Edfora Infotech",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Enthusiasm to Learn' defines me in a nutshell. Aiming towards a goal and making continuous effort to achieve it is what I believe. I am a girl who puts thinking into each step towards giving back to the community by sharing the knowledge with everyone who is in the quest for it. Hardwork and Determination are the two values that I hold close to my heart. Working as a Software Engineer, I have keen interest in working on new technologies. Being the facilitator of the #IamRemarkable initiative by Google, I always give my best to motivate my people around me. Empowering women and having gender equity has always been my motive and this led me to be the Chapter Lead for Malikah where I will be helping women out in many ways. Despite busy schedules, I never miss an opportunity to help, travel and eat.",
+        "social": {
+          "twitter": "https://twitter.com/_varshajaiswal_",
+          "linkedin": "https://www.linkedin.com/in/varshajaiswal/"
+        }
+      },
+      {
+        "name": "Mansi Jain",
+        "community": {
+          "name": "GDG-GWALIOR / WTM-GWALIOR",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "I'm kind of enthusiastic and personal drived person with my set of goals to accomplish, GDG Community helped me in taking ownership of my tasks as prioritising my work activities turning it into key strength that I have developed so far :)",
+        "social": {
+          "twitter": "https://twitter.com/MansiJa71297797?s=09",
+          "linkedin": "https://www.linkedin.com/in/mansi-jain-977796185"
+        }
+      },
+      {
+        "name": "Aditi Soni",
+        "community": {
+          "name": "GDG Pune",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Consultadd Inc.",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Aditi is a community lover and a passionate developer. She keeps contributing to various technical communities as an organizer or a speaker. As a personal interest, she develops mobile Applications. She is also a Google India Udacity Android Developers Nanodegree 2018 Scholar. Reading about new inventions and breakthroughs keeps her motivated. She always tries to empower women with the power of community to help women achieve the things they aim for. Happiness is a choice and she strongly believes that one should always keep the child inside them alive.",
+        "social": {
+          "twitter": "https://twitter.com/soniaditi380",
+          "linkedin": "https://www.linkedin.com/in/aditi-soni/"
+        }
+      },
+      {
+        "name": "Runcy Oommen",
+        "community": {
+          "name": "GDG Cloud Bangalore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "SonicWall",
+          "designation": "Principal Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Community as the word itself is a combined entity and I as a leader is just the face. The true power comes from whole and my aim would be to harness that by acting as an enabler to bring out it's true potential.",
+        "social": {
+          "twitter": "https://twitter.com/runcyoommen",
+          "linkedin": "https://linkedin.com/in/runcyoommen"
+        }
+      },
+      {
+        "name": "Abhishek Mishra",
+        "community": {
+          "name": "GDG Chennai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Essentia SoftServ LLP",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am Abhishek, co-organizer of GDG chennai. Its been a great journey being a part of GDG community. Our team has done lot of help and mentoring for the community members apart from our normal seesions and workshops.\nOur goal is always aligned with our community member and we grow together.\nWe give platform to new community member and help them in oublic speaking as well, irrespective of any biases.",
+        "social": {
+          "twitter": "https://twitter.com/stalwartcoder",
+          "linkedin": "https://linkedin.com/in/stalwartcoder"
+        }
+      },
+      {
+        "name": "Nivetha Maran",
+        "community": {
+          "name": "GDG Chennai",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Fourkites",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Becoming a leader who is working towards equal opportunity for both men and women in tech world.",
+        "social": {
+          "twitter": "https://twitter.com/NivethaMaran",
+          "linkedin": "https://www.linkedin.com/in/nivethamaran/"
+        }
+      },
+      {
+        "name": "Ramya Kappagantu",
+        "community": {
+          "name": "GDG Nagpur",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Oracle India",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I love taking up new challenges. I am a community leader, who understands the requirements of my community and tracks the progress accordingly. I believe empowerment and inspiration is a two way process. As a community leader, I love empowering people by taking up new initiatives that suits the requirements and also getting empowered from my community acts as a driving force for me to bring in better ways to build a stronger community.",
+        "social": {
+          "twitter": "https://twitter.com/ramyaK122",
+          "linkedin": "https://www.linkedin.com/in/ramya-kappagantu-a588a6162/"
+        }
+      },
+      {
+        "name": "Mohd Kafeel khan",
+        "community": {
+          "name": "GDG NEW DELHI",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Samsung R&D",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I have always believed that learning should be considered as much as a community activity as a personal goal. A good leader talks only about his knowledge but a great leader keeps everybody's wisdom on an individual platform so that everyone can look up to it. Hence, sharing my knowledge, experience and insights with my community and listening to their experiences and know hows has been my primary method of learning through a community. \nI firmly believe in taking on to new endeavors and making collaborations based on ideas that have never been implemented before. I am always up for newness as I think that is the key to keep a community thriving.",
+        "social": {
+          "twitter": "https://twitter.com/kafeel001khan",
+          "linkedin": "https://linkedin.com/in/kafeelkhan"
+        }
+      },
+      {
+        "name": "Aananya T",
+        "community": {
+          "name": "GDG/ WTM Bangalore",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Kubric.io",
+          "designation": "Developer advocate"
+        },  
+        "image": "profile.jpg",
+        "bio": "Building humanly APIs as a developer experience engineer at Kubric, women techmaker ambassador from bangalore. Driven by empathy and powered by idli💪🏼\nArtmaker too",
+        "social": {
+          "twitter": "https://twitter.com/py_anan",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Mahaveer Muttha",
+        "community": {
+          "name": "GDG Pune",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "BirdVision Consulting Pvt Ltd",
+          "designation": "Director IT"
+        },  
+        "image": "profile.jpg",
+        "bio": "Community enthusiast entrepreneur with development background. I consider myself to be a passionate community manager with the ability to motivate and inspire individuals in indemnifying their potential to continue and share this passion to serve others. With this ongoing quest to give, I have been able to promote significant, positive change in communities and individuals through advocacy, empowered by compassion.",
+        "social": {
+          "twitter": "https://twitter.com/mahaveermuttha",
+          "linkedin": "https://www.linkedin.com/in/mahaveer-muttha"
+        }
+      },
+      {
+        "name": "Sameer Khan",
+        "community": {
+          "name": "GDG Bhopal",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "Sameer Khan is an all-in-all community guy who believes in creating products that solves problem, along with the power of people. As a community leader, he puts in efforts to elevate the community, aligning initiatives that works best in the favor of the community, and making sure each individual tries to be their best selves, in their discipline. He is a software engineer that consistently involves himself in talking about tech, at hackathons, and conferences.",
+        "social": {
+          "twitter": "https://twitter.com/monkfromearth",
+          "linkedin": "https://linkedin.com/in/monkfromearth"
+        }
+      },
+      {
+        "name": "Sneh Pandya",
+        "community": {
+          "name": "GDG Baroda",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "CupShup",
+          "designation": "Senior Product Manager"
+        },  
+        "image": "profile.jpg",
+        "bio": "Experienced leader and contributor in the community who stays updated with trends. Loves to take initiatives and build/run/lead things that are impactful on people’s lives.\n\nCo-organizer at Google Developers Group Baroda (GDG Baroda). Have delivered multiple tech talks over a period of 3 years. Have represented India communities at a global stage for consecutive years 2018 and 2019. He takes initiatives including events and activities for the people to learn, explore and grow. He is passionate about networking and idea-exchange on various topics including tech and non-tech.  \n\nOwner of the podcast NinjaTalks which focuses on empowering people by sharing experiences from the experts. Avid blogger and mentor for technology and leadership.",
+        "social": {
+          "twitter": "https://twitter.com/snehpandya18",
+          "linkedin": "https://www.linkedin.com/in/snehpandya18"
+        }
+      },
+      {
+        "name": "Riya Guha Thakurta",
+        "community": {
+          "name": "GDG/WTM Kolkata",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Johnson Controls",
+          "designation": "Associate Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Riya is an Associate Software Engineer working with Johnson Controls. She believes in contributing towards the community and sharing knowledge with others to solve their problems, which leads her to serve for her regional community as a WomenTechmakers Ambassador and Co-organizer of Google Developers Group Kolkata. Being an Intel Software Innovator she looks forward to sharing her expertise which thrives on innovation and would be helpful for tech enthusiasts to build solutions in IoT. She loves programming and applying her skills to solve real-life problems and make life smarter. She thrives to contribute to diversity, inclusion, and technology and loves networking with people who share similar goals to bring change for the community. \n\n ",
+        "social": {
+          "twitter": "https://twitter.com/RiyaThakurta",
+          "linkedin": "https://www.linkedin.com/in/riya-guha-thakurta/"
+        }
+      },
+      {
+        "name": "Dhivya Krishna",
+        "community": {
+          "name": "WTM Coimbatore",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Freelancer",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "Former TEDxSKCET licensee | Google Developers Group organizer | Google's WTM Ambassador | Public speaker | Psychologist | An IT Engineer | Social Activist | SEO Specialist | Content marketing | #IamRemarkable Facilitator | Digital marketing | Analyst\nWRITER - Yourstory | Medium | YouTube | Blogspot | WordPress",
+        "social": {
+          "twitter": "https://twitter.com/Dhivn1",
+          "linkedin": "https://www.linkedin.com/in/dhivya-krishna-37a00711b/"
+        }
+      },
+      {
+        "name": "Akshay Malviya",
+        "community": {
+          "name": "GDG Cloud Indore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Diaspark Inc.",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am Akshay, Organizer of GDG Cloud Indore. I contribute in community with 20+ team members having professional and students both. I believe in organise and disciplined work and my team support me for the same. My main objective is to share maximum knowledge regarding Technologies especially Google Cloud to the open community and work together with them for the contribution of global goals of sustainable development in all possible ways.",
+        "social": {
+          "twitter": "https://twitter.com/imakshaymalviya",
+          "linkedin": "https://www.linkedin.com/in/akshaymalviya"
+        }
+      },
+      {
+        "name": "Vaibhav Malpani",
+        "community": {
+          "name": "GDG Cloud Mumbai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Xoriant solution",
+          "designation": "Software Developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I have been a part of GDG cloud Mumbai for more than 1.5 years. It's been really great to setup the events, share knowledge with an enthusiastic community and helping people grow with us.",
+        "social": {
+          "twitter": "https://twitter.com/IVaibhavMalpani",
+          "linkedin": "https://www.linkedin.com/in/ivaibhavmalpani/"
+        }
+      },
+      {
+        "name": "Shantanu Vishwanadha",
+        "community": {
+          "name": "GDG Nagpur",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "ProCohat",
+          "designation": "CTO"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am a blockchain evangelist and AI enthusiast with 4 years of experience. Avidly contributing to the Linux Foundation and other Open Source Communities. \nCurrently working as CTO at ProCohat Technologies.",
+        "social": {
+          "twitter": "https://twitter.com/thecoderpanda",
+          "linkedin": "https://linkedin.com/in/thecoderpanda"
+        }
+      },
+      {
+        "name": "Debiprasad Sahoo",
+        "community": {
+          "name": "GDG Bhubaneswar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Indibits",
+          "designation": "Freelance Fullstack Developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Debiprasad is a freelance fullstack developer based out of Bhubaneswar, India. He contributes to the developers' community by leading GDG Bhubaneswar as an Organizer with a goal to bring all developers of the city together. He is also a vocal advocate for gender equality at work.\n\nWith dedicated effort to build a vibrant community of developers of the city GDG Bhubaneswar has managed to increase its members and reach. Also, he has helped to keep all the meet-ups relevant and helpful to the developers and decrease no shows at the meet-ups.\n\nDuring the COVID-19 pandemic, he organises virtual meet-ups and online webinars to help members of GDG Bhubaneswar to stay in touch with the community. He has also collaborated with other communities to organise many pan-India online events.",
+        "social": {
+          "twitter": "https://twitter.com/debiprasad",
+          "linkedin": "http://linkedin.com/in/debiprasad/"
+        }
+      },
+      {
+        "name": "Pranoti Nandurkar",
+        "community": {
+          "name": "GDG Pune",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Infosys ltd.",
+          "designation": "Sr. Consultant"
+        },  
+        "image": "profile.jpg",
+        "bio": "Pranoti is women techmakers ambassador for pune region from last 5 years. She is having 10+ years of experience and working as capacity of Sr. Consultant in Infosys ltd.\n",
+        "social": {
+          "twitter": "https://twitter.com/PranotiNandurka",
+          "linkedin": "https://www.linkedin.com/in/pranoti-nandurkar-170021b"
+        }
+      },
+      {
+        "name": "Geeta kakrani",
+        "community": {
+          "name": "GDG Gwalior",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Kanishka Information Technology PVT LTD",
+          "designation": "CEO"
+        },  
+        "image": "profile.jpg",
+        "bio": "For the last 10 years, I have been working as a CEO in my company.  I faced many challenges in this period, but I  learnt a lot of things from each challenge, as a gdg organizer and Wtm Ambassador it’s a new opportunity for me but I can bring many developers together on a stage. A stage where everyone can share and work together, I want to create a comfortable environment for team members, volunteers and members in which a new enthusiastic person can learn and experience professionally, and can connect with experts I am always in this Try to fill the gap",
+        "social": {
+          "twitter": "https://twitter.com/GdgGwalior",
+          "linkedin": "https://www.linkedin.com/company/gdggwalior/"
+        }
+      },
+      {
+        "name": "Sohail Pathan",
+        "community": {
+          "name": "GDG Nagpur",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Coding Blocks",
+          "designation": "Program Manager"
+        },  
+        "image": "profile.jpg",
+        "bio": "Avid Kotlin enthusiast who love to build apps with passion of driving tech communities to prove that everyone can code :D",
+        "social": {
+          "twitter": "https://twitter.com/iamspathan",
+          "linkedin": "https://linkedin.com/in/iamspathan"
+        }
+      },
+      {
+        "name": "Sriyank Siddhartha",
+        "community": {
+          "name": "GDG BBSR",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Smartherd",
+          "designation": "Content Creator and Android Developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am a full-time content creator and mobile application developer. I love to share my knowledge through online training platforms. I have published over 21 high-quality Android courses on Pluralsight and 3 courses on Packt. On Udemy I teach 1 lakh+ students from over 146 countries. My passion for teaching embarked when I started my youtube channel and got an overwhelming response. My youtube channel Smartherd has crossed over 84,000 subscribers. Recently my Dart programming videos got acknowledged by Google and has been listed as a trusted source to learn Dart programming as a part of their official Dart lang documentation (https://dart.dev/resources/videos). Being an organizer at Google Developers Group Bhubaneswar, I conduct tech workshops every month to enrich developers community in and around Orissa. Apart from work, I love to travel and explore new places.",
+        "social": {
+          "twitter": "https://twitter.com/sriyanksid",
+          "linkedin": "https://www.linkedin.com/in/sriyank/"
+        }
+      },
+      {
+        "name": "Rajashree Biswal",
+        "community": {
+          "name": "GDG/WTM Bhubaneswar",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Thinkzone pvt ltd",
+          "designation": "Sr software developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "As a community leader i feel encouraged",
+        "social": {
+          "twitter": "https://twitter.com/biswalrajashree",
+          "linkedin": "https://www.linkedin.com/in/rajashreebiswal/"
+        }
+      },
+      {
+        "name": "Sanjib Parida",
+        "community": {
+          "name": "GDG Cloud Bhubaneswar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "I have been an active contributor to the tech community in Bhubaneswar since 4 years. During this period I have organised more than 50 sessions covering Mobile and Cloud technologies.",
+        "social": {
+          "twitter": "https://twitter.com/izixin",
+          "linkedin": "https://www.linkedin.com/in/sanjibparida/"
+        }
+      },
+      {
+        "name": "Gokul Karthick",
+        "community": {
+          "name": "GDG Coimbatore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "VakilSearch",
+          "designation": "DevOps Lead"
+        },  
+        "image": "profile.jpg",
+        "bio": "Team members with strong leadership skills are more likely to remain loyal and stay supportive of the community. It's very crucial to show that I have the skill to support the community to achieve its goal. In this aspect, the experience of my profession plays a major role in my career. As a team leader, it is important to showcase the ability to be an effective decision-maker. Further, I should discuss how to delegate tasks and plan for the accomplishments. Therefore, as a community leader, I will show the results to achieve the goals and turn the vision into reality | I'm DevOps Engineer | Mentor | Explorer",
+        "social": {
+          "twitter": "https://twitter.com/gokulkarthickct",
+          "linkedin": "https://linkedin.com/in/gokulkarthick"
+        }
+      },
+      {
+        "name": "Madhav Reddy",
+        "community": {
+          "name": "GDG Vizag",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "RedMad Learnings",
+          "designation": "Founder"
+        },  
+        "image": "profile.jpg",
+        "bio": "I have started GDG & WTM Vizag almost 2 years back. The purpose was to provide local developers & students an opportunity to showcase their skills to the audience.\nIn last 2 years, the group has grown widely and we started receiving participation not just from the Vizag City but also from cities across Andhra Pradesh.\nWe are proud that we have provided platform for Local entrepreneurs & developers like Indiashare app, Facial recognition expert Muskan Kumar and many more to showcase their skills.\n\nIn last 2 years we organized - 2 Devfests, multiple Meetups, Demo Days. WTM Sessions, Code Labs and many other informal meetings which helped the local developer’s community a lot.\n\nThis Devfest 2020 also marks the 3rd Anniversary of GDG & WTM Vizag and we wish to organize more such programs to boost the Developers community across Andhra Pradesh.",
+        "social": {
+          "twitter": "https://twitter.com/rmadhav9",
+          "linkedin": "https://www.linkedin.com/in/reddymadhav/"
+        }
+      },
+      {
+        "name": "Annapurna Agrawal",
+        "community": {
+          "name": "GDG/WTM Bhubaneswar",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Pluralsight",
+          "designation": "Author"
+        },  
+        "image": "profile.jpg",
+        "bio": "Always vigilant about sharing experiences and knowledge through networking, collaboration and whatever way possible. Hard work and smart work go hand in hand.\nI like exploring new things, new technologies and implementing them to build something useful. Despite loads of work, I never miss a chance to travel and eat!",
+        "social": {
+          "twitter": "https://twitter.com/annapurna_myuz",
+          "linkedin": "https://www.linkedin.com/in/annapurna-agrawal/"
+        }
+      },
+      {
+        "name": "Akash Gangrade",
+        "community": {
+          "name": "GDG Cloud Indore",
+          "designation": "Co-organizer"
+        },
+        "company": {
+          "name": "RWS  Moravia",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I have been a part of GDG cloud indore from its inception. As a Co-Organizer I have been involved in every successful event of GDG Cloud Indore so far. We have also organized Devfest 2019 which was one of the largest community event in india with more than 1200 attendees.",
+        "social": {
+          "twitter": "https://twitter.com/akashgangrade23",
+          "linkedin": "https://www.linkedin.com/in/akash-gangrade-8428b8106/"
+        }
+      },
+      {
+        "name": "Basanta Moharana",
+        "community": {
+          "name": "GDG Bhubaneswar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": "UX Designer"
+        },  
+        "image": "profile.jpg",
+        "bio": "We hope for progress when we think about the future. To Thiel, that progress takes place in two ways.",
+        "social": {
+          "twitter": "https://twitter.com/uxlogix",
+          "linkedin": "https://www.linkedin.com/in/basanntakumar/"
+        }
+      },
+      {
+        "name": "Ramees Salim",
+        "community": {
+          "name": "GDG Cochin",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "UST Global",
+          "designation": "Product Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I believe in learning new things as we move forward and work together towards a common goal and focusing on building effectiveness.",
+        "social": {
+          "twitter": "https://twitter.com/_rameessalim",
+          "linkedin": "http://linkedin.com/in/rameessalim/"
+        }
+      },
+      {
+        "name": "Irshad Ahmad Khan",
+        "community": {
+          "name": "GDG Srinagar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "CEO Srinagar",
+          "designation": "Programmer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I believe a leader is one who can empathise with the members of the community and at the same time develop solutions for the problems faced by them. A leader takes the pack along. I firmly believe that being a leader is a responsibility that one needs to carry sensibly. I am always in pursuit of trying my level best to be a leader.  Being a leader is a journey not a destination. You fail every now and then, and you learn how not to fail the next time. The key is to utilise your strengths and plan to overcome your weaknesses.",
+        "social": {
+          "twitter": "https://twitter.com/irshudev",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Aarshiya Guneja",
+        "community": {
+          "name": "GDG Jaipur",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "",
+          "designation": "Software Developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Aarshiya is a Software Developer by Profession. She likes to read books, write code and loves to draw sketches and designs. She likes to roam around with her pet dog in free time. Aarshiya loves to network and meet new people, solve their problems. You will often see her involved in communities organising events and networking.",
+        "social": {
+          "twitter": "https://twitter.com/aarshiyaguneja",
+          "linkedin": "https://www.linkedin.com/in/aarshiyaguneja/"
+        }
+      },
+      {
+        "name": "Remya P Vava",
+        "community": {
+          "name": "GDG Trivandrum",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "QBurst Technologies",
+          "designation": "Architect"
+        },  
+        "image": "profile.jpg",
+        "bio": "I’m a solution Architect with around 12 years of experience. Also a WTM Ambassador, GDG Organizer & an #IamRemarkable Facilitator.\n\nI’m always a learner at heart, my true passion is helping and motivating others to be inspired, educated and willing to work hard in order to achieve the unlimited success! ",
+        "social": {
+          "twitter": "https://twitter.com/remyapvava",
+          "linkedin": "https://www.linkedin.com/in/remyapvava/"
+        }
+      },
+      {
+        "name": "Priyal Jain",
+        "community": {
+          "name": "GDG Cloud/WTM Indore",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Buyogo",
+          "designation": "Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Enthusiastic web developer keen to learn new things and follow the passion.",
+        "social": {
+          "twitter": "https://twitter.com/priyaljain919",
+          "linkedin": "https://www.linkedin.com/in/priyaljain919"
+        }
+      },
+      {
+        "name": "Sayak Paul",
+        "community": {
+          "name": "GDG Kolkata",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "PyImageSearch",
+          "designation": "Deep Learning Associate"
+        },  
+        "image": "profile.jpg",
+        "bio": "I have always believed that \"if anything in life that is worth doing is worth overdoing\". This belief instills me a sense of ownership, perseverance, and leadership. ",
+        "social": {
+          "twitter": "https://twitter.com/RisingSayak",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Usha Ramani V",
+        "community": {
+          "name": "GDG Vizag/ WTM Vizag",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Gurujada.com",
+          "designation": "Co founder"
+        },  
+        "image": "profile.jpg",
+        "bio": "I'd like to describe myself as an edupreneur passionate about technology and community.\nI believe a true leader leads by example. For the Vizag community my priorities have always been to provide a platform for effective technology conversations, organising quality events for our audiences and engaging them with the best resources. I take pride in building my volunteer teams with students, love conducting events with them and shining spotlight on their efforts. I hope to unite all the developers in the city by bringing them together onto a common platform.\n",
+        "social": {
+          "twitter": "https://twitter.com/vusharamani",
+          "linkedin": "https://www.linkedin.com/mwlite/in/usha-ramani-vemuru-66286723"
+        }
+      },
+      {
+        "name": "Suraj Kumar Harichandan",
+        "community": {
+          "name": "GDG Cloud Bhubaneswar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Wipro Technology",
+          "designation": "Associate Consultant"
+        },  
+        "image": "profile.jpg",
+        "bio": "I love my community because it helped me grow , it always presented me with wonderful challenges which helped me become the person I am . My community nurtured me grow from a budding college tech enthusiast to a professional software engineer and it does the same to everyone who’s a part of my community. My community is a wonderful place for anyone who’s interested in tech , we’ve community members who work a computer operators in Govt agricultural organisations to people who own their own tech companies, hence its really an ideal place for any tech enthusiast to grow and help others grow.",
+        "social": {
+          "twitter": "https://twitter.com/suraj_somu",
+          "linkedin": "http://linkedin.com/in/suraj-harichandan"
+        }
+      },
+      {
+        "name": "Sathishkumar",
+        "community": {
+          "name": "GDG Salem",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "i18nsolutions",
+          "designation": "Founder and CEO"
+        },  
+        "image": "profile.jpg",
+        "bio": "As a community lead I took pledge to probagte the recent technologies to young minds",
+        "social": {
+          "twitter": "https://twitter.com/psathishsivam",
+          "linkedin": "https://www.linkedin.com/in/sathishkumar-paramasivam-67628035"
+        }
+      },
+      {
+        "name": "Antrixsh Gupta",
+        "community": {
+          "name": "GDG Cloud Pune",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Danalitic India",
+          "designation": "Founder"
+        },  
+        "image": "profile.jpg",
+        "bio": "Highly passionate and optimistic tech professional with over 12+ years of experience in various sectors and have worked across technologies and cloud/AI platforms. I bring a varied experience of building the robust technology for the startup ecosystem.",
+        "social": {
+          "twitter": "https://twitter.com/antrixshg",
+          "linkedin": "https://www.linkedin.com/in/antrixsh-gupta-432329152/"
+        }
+      },
+      {
+        "name": "Girish Patil",
+        "community": {
+          "name": "GDG Hubli",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Hashnode",
+          "designation": "Full stack engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Empathic, friendly and a strong believer in the community who is willing to go beyond when necessary.",
+        "social": {
+          "twitter": "http://twitter.com/theevilhead",
+          "linkedin": "https://www.linkedin.com/in/theevilhead/"
+        }
+      },
+      {
+        "name": "Vairamuthu",
+        "community": {
+          "name": "GDG SALEM",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "Student and a android developer",
+        "social": {
+          "twitter": "https://twitter.com/ajayvairamuthu",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Viswaprasath",
+        "community": {
+          "name": "GDG Salem",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Zoho",
+          "designation": "MTS"
+        },  
+        "image": "profile.jpg",
+        "bio": "Have been contributing to Open source community for 8 years. Have spoke about WebExtension in various conference. Was part of Google Students Ambassadors program in 2012 and have evangelized about Google products at various college and helped in Google Mapmaker and Youtube for Education adoption inside Tamilnadu. Now focusing on vernacular education with help of Youtube to teach Programming in tamil.",
+        "social": {
+          "twitter": "https://twitter.com/HeyVP7",
+          "linkedin": "https://www.linkedin.com/in/viswaprasathks/"
+        }
+      },
+      {
+        "name": "usha rengaraju",
+        "community": {
+          "name": "GDG Mysuru , WTM Mysuru",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Infinite Sum Modelling",
+          "designation": "Principal Data Scientist"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am blessed with high energy levels and over a period of time I have mastered some exceptional strategies to channel my energy into right activities and also effectively manage time. I lead 8 communities across two cities Bangalore and Mysuru ( TensorFlow User Group(TFUG Mysuru) , Google Developer Group (GDG Mysuru) , Women TechMakers Ambassador for Mysuru , Women in Data Science Ambassador (Mysuru) , Women in Machine Learning and Data Science (WiMLDS – Bangalore and Mysore) , Lean in Bangalore AI circle and AIMed Ambassador. I am so happy to see many of the communities I lead have grown to become the biggest chapters in India.",
+        "social": {
+          "twitter": "https://twitter.com/URengaraju",
+          "linkedin": "https://www.linkedin.com/in/usha-rengaraju-b570b7a2/"
+        }
+      },
+      {
+        "name": "Maitreyi",
+        "community": {
+          "name": "GDG Cloud Mumbai",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Vimana",
+          "designation": "Iot analytics"
+        },  
+        "image": "profile.jpg",
+        "bio": "Maitreyi is a WTM Ambassador and an organizer at GDG Cloud Mumbai. A data engineer at Vimana by profession, she loves all things machine learning and mathematics.",
+        "social": {
+          "twitter": "https://mobile.twitter.com/maitreyi_kv",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Vaishnav Vharkat",
+        "community": {
+          "name": "GDG Goa",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "A newbie who is learning and exploring team management and all the necessary aspects to be a good community leader. Since the start of my journey as the co-organizer, I had the chance of being a part of the team-building process where we formed individual teams. Leading the digital team and collaborating with fellow team members is definitely the part that I loved. Due to the coronavirus situation, I learned to organize online events, and lead the team remotely. It is definitely something that will help improve my leadership and various other skills, and I am looking forward to the journey ahead.",
+        "social": {
+          "twitter": "https://twitter.com/vaishnavvharkat",
+          "linkedin": "http://linkedin.in/in/vaishnavvharkat"
+        }
+      },
+      {
+        "name": "Dhayanithi",
+        "community": {
+          "name": "GDG/Salem",
+          "designation": ""
+        },
+        "company": {
+          "name": "Sona College of Technology",
+          "designation": "Assistant Professor"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am passionate in developing application for the basic and general needs and also I am very helpful to others to learn new skills",
+        "social": {
+          "twitter": "https://twitter.com/dhayaj",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Padmapriya",
+        "community": {
+          "name": "WTM Madurai",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "TCS",
+          "designation": "Senior Test Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Women TechMakers Madurai Ambassador",
+        "social": {
+          "twitter": "https://www.twitter.com/padmapriyaru",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Senthil kumar Murugesan",
+        "community": {
+          "name": "GDG Madurai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Jiovio healthcare",
+          "designation": "CEO Co-founder"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am Senthil Kumar M. I hail from Madurai, Tamilnadu-India with a great passion for innovating through technology to solve real life problems. I have innovated in fields like wireless network, defence, maternal healthcare, and safety solutions. I believe building strong developer community in smaller town encourage more people to come back to their home town and it avoid the brain drain in the city. ",
+        "social": {
+          "twitter": "https://twitter.com/sentenwin ",
+          "linkedin": "https://www.linkedin.com/in/senthilkumar-murugesan/"
+        }
+      },
+      {
+        "name": "Ananya R",
+        "community": {
+          "name": "GDG Trivandrum",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "Ananya is an enthusiastic and inquisitive learner .She is a techie and is the WTM Ambassador of GDG Trivandrum. She is a responsible volunteer who takes part in different community programs with aplomb.She has been awarded' Outstanding Women in Engineering student volunteer' from IEEE Kerala Section in 2018 for the contribution to women student engineering community.She is an opportunist & optimistic personality who loves to explore & learn.",
+        "social": {
+          "twitter": "https://twitter.com/AnanyaR15",
+          "linkedin": "https://www.linkedin.com/in/ananya-r"
+        }
+      },
+      {
+        "name": "Anurag Verma",
+        "community": {
+          "name": "GDG Patna",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "I am Anurag Verma, born and brought up in Patna, Bihar. I am an Alumini of CEG, Anna University & I have worked as a Senior Software Engineer in a Silicon Valley based startup for a couple of years. Living miles away from my hometown, my heart was still there in Patna.\n\nSoftware Technology and an IT job is something that is still untouched in Bihar. Deep inside, a strong desire of helping young students of my state in learning technical skills was in my mind which made me resign from my job a year back & I am in Patna now.\n\nI became a part of the GDG Patna in January 2020 and I am glad that our GDG Patna family showed a significant expansion in a very short time span. I am working with students from various colleges in Bihar to provide them with skills required according the latest trends in the industry. As a community leader, I have been conducting events to help them learn different technical skills through offline & online mode. It's just the beginning & there is still a long way to go.",
+        "social": {
+          "twitter": "https://twitter.com/anuragceg",
+          "linkedin": "https://www.linkedin.com/in/anuragver"
+        }
+      },
+      {
+        "name": "Indranil Dutta",
+        "community": {
+          "name": "GDG Kolkata",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "PwC India Pvt Ltd.",
+          "designation": "Technology Consultant"
+        },  
+        "image": "profile.jpg",
+        "bio": "I try to work with my team just like anybody so that they feel comfortable. Leadership to me is encouraging people and believing in them, on what they are doing. As a GDG Kolkata lead I always ensure quality over quantity on the event part. ",
+        "social": {
+          "twitter": "https://twitter.com/iamindrad",
+          "linkedin": "https://www.linkedin.com/in/indranil-dutta-06"
+        }
+      },
+      {
+        "name": "Kartik Derasari",
+        "community": {
+          "name": "GDG Cloud Ahmedabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "Kartik is a passionate Community Builder, shaping developer communities from the past two years namely GDG Cloud Ahmedabad, Silver Oak University IEEE Student Branch, Industry Relations Team at IEEE India Council and Developer Student Clubs SOU. He has also contributed as a ML facilitator to Google AI's Explore ML program in India.",
+        "social": {
+          "twitter": "https://twitter.com/kartik_derasari",
+          "linkedin": "https://www.linkedin.com/in/kartikderasari/"
+        }
+      },
+      {
+        "name": "Arun Shanker Prasad",
+        "community": {
+          "name": "GDG Thiruvananthapuram",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Wayfair",
+          "designation": "Senior Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "As a community leader, I think of myself as a facilitator, a gateway for people to get connected with others, and get to the right information they need when they need to.",
+        "social": {
+          "twitter": "https://twitter.com/as_prasad",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Poornalingam pathmanaban",
+        "community": {
+          "name": "GDG SALEM",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "I18NSOLUTIONS",
+          "designation": "Trainee Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Hey Hi, I'm poornalingam pathmanaban. As a community leader I'm really waiting to do helping others learn & connect with young telented minds.",
+        "social": {
+          "twitter": "https://twitter.com/PoornalingamP",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Swapnil Pandey",
+        "community": {
+          "name": "GDG Jaipur",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""
+        },  
+        "image": "profile.jpg",
+        "bio": "I tend to be the leader in most situations, though sometimes it may be better for the community for me to follow along.",
+        "social": {
+          "twitter": "https://twitter.com/swapnil_pandey_",
+          "linkedin": "https://www.linkedin.com/in/swapnil96/"
+        }
+      },
+      {
+        "name": "Brijesh Masrani",
+        "community": {
+          "name": "GDG Blrdroid",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Byjus",
+          "designation": "Lead Android Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I love to be a mediator to connect people who wants to learn something new and people who wants to share their knowledge in community.",
+        "social": {
+          "twitter": "https://twitter.com/brijeshmasrani",
+          "linkedin": "https://www.linkedin.com/in/brijeshmasrani/"
+        }
+      },
+      {
+        "name": "UDAY",
+        "community": {
+          "name": "GDG Cloud Hyderabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "INFORMATICA",
+          "designation": "Senior Product Manager"
+        },  
+        "image": "profile.jpg",
+        "bio": "Co-created \"GDG Cloud Hyderabad\" chapter and scaled it up from 0 to ~2500 member team in less than 18 months!\nPlanned and successfully executed a Cloud Developer Community Conference and 2 Google DevFests between Sep-2018 and Dec-2019.\nMentor at StartupWeekend, Speaker at several Microsoft/Cloud/Data events, Advisory Board Member for a reputed B-School. \nAll these are voluntary, Non-Profit works that I love to do as part of my 'Give back to the community' mindset.",
+        "social": {
+          "twitter": "https://twitter.com/UdayMannam",
+          "linkedin": "https://www.linkedin.com/in/udaymannam/"
+        }
+      },
+      {
+        "name": "Parth Jansari",
+        "community": {
+          "name": "Gdg Gandhinagar",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Stimulus",
+          "designation": "Sr frontend developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I strongly believe in inclusive community where everyone from students to working professionals can network with each other and help each other move forward.",
+        "social": {
+          "twitter": "https://twitter.com/jansariparth",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Shilpa Garg",
+        "community": {
+          "name": "GDG/WTM New Delhi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Magic Software",
+          "designation": "Lead AI Consultant"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am a Software Engineer presently working in the field of Machine Learning(NLP), a Tech Speaker, Google MLCC Facilitator, Python mentor at 1 million Women to Tech by Oxford Entreprenurers & presently working as Lead AI Consultant in Edtech. Company, with a toal experience of 5+ years in the Industry. I am organiser of GDG New Delhi & WTM Ambassador as well. I love community building and empowering women in Tech.",
+        "social": {
+          "twitter": "https://twitter.com/shilpa1994",
+          "linkedin": "https://www.linkedin.com/in/shilpagarg13/"
+        }
+      },
+      {
+        "name": "Abhinav Kumar",
+        "community": {
+          "name": "GDG Siliguri",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Intel",
+          "designation": "Software Innovator"
+        },  
+        "image": "profile.jpg",
+        "bio": "A Self Motivated Individual who strives to be the best in every field of endeavor.  A passionate freelancer and an Intel Software Innovator, having love for new technologies like IoT and ML. Apart from that I am a community enthusiast and I love to contribute to developer communities through different mediums.\nI have been involved with various communities since starting of my college days ( like DSC, programming clubs, etc).\nBefore joining GDG as an organiser I was involved with GDG as a volunteer since last year. During that span I contributed to the community by bringing some speakers, managing Community members and many more things. Now that I have joined as an organiser. it's really easy for me to deliver those things which is being expected by the community members.\nRecent organised one Hackathon and got really good response.. \nI am really happy to be a part of such an amazing community.",
+        "social": {
+          "twitter": "https://twitter.com/Abhinav_kumar5",
+          "linkedin": "https://www.linkedin.com/in/abhinav580"
+        }
+      },
+      {
+        "name": "Abhinav Kumar",
+        "community": {
+          "name": "GDG Siliguri",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Intel",
+          "designation": "Software Innovator"
+        },  
+        "image": "profile.jpg",
+        "bio": "A Self Motivated Individual who strives to be the best in every field of endeavor.  A passionate freelancer and an Intel Software Innovator, having love for new technologies like IoT and ML. Apart from that I am a community enthusiast and I love to contribute to developer communities through different mediums.\nI have been involved with various communities since starting of my college days ( like DSC, programming clubs, etc).\nBefore joining GDG as an organiser I was involved with GDG as a volunteer since last year. During that span I contributed to the community by bringing some speakers, managing Community members and many more things. Now that I have joined as an organiser. it's really easy for me to deliver those things which is being expected by the community members.\nRecent organised one Hackathon and got really good response.. \nI am really happy to be a part of such an amazing community.",
+        "social": {
+          "twitter": "https://twitter.com/Abhinav_kumar5",
+          "linkedin": "https://www.linkedin.com/in/abhinav580"
+        }
+      },
+      {
+        "name": "Jaldeep Asodariya",
+        "community": {
+          "name": "GDG Ahmedabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Mindinventory",
+          "designation": "Senior Mobile Developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I'm an Event Organizer at GDG Ahmedabad. A part from managing events I'm managing Media department (Youtube channel where we upload DevfestAhm trailer, highlights, session/talk video etc) and Website (GDG, WTM and DevFest) also.",
+        "social": {
+          "twitter": "https://twitter.com/jaldeepasodariy",
+          "linkedin": "https://in.linkedin.com/in/jaldeepasodariya"
+        }
+      },
+      {
+        "name": "Sakshi Shukla",
+        "community": {
+          "name": "GDG Cloud/WTM New Delhi",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Delhivery Pvt Ltd",
+          "designation": "Data Scientist"
+        },  
+        "image": "profile.jpg",
+        "bio": "ML Enthusiast, Content Creator for Tech Community",
+        "social": {
+          "twitter": "https://twitter.com/Sakshi_ai",
+          "linkedin": "https://www.linkedin.com/in/sakshi-ai/"
+        }
+      },
+      {
+        "name": "Arpan Garg",
+        "community": {
+          "name": "GDG New Delhi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Commudle",
+          "designation": "Creator"
+        },  
+        "image": "profile.jpg",
+        "bio": "Arpan is very passionate about communities. From taking sessions on Web Development which is also his area of Tech Expertise, to doing some creative fun activities during the events, you'll find him filled with energy. Professionally, he's building Commudle, a platform which will help Tech Communities to grow!",
+        "social": {
+          "twitter": "https://twitter.com/arpansac",
+          "linkedin": "https://linkedin.com/in/arpansac"
+        }
+      },
+      {
+        "name": "Aayush Agrawal",
+        "community": {
+          "name": "GDG Cloud Indore",
+          "designation": "Co-organizer"
+        },
+        "company": {
+          "name": "Protonshub",
+          "designation": "Senior Software Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I'm the kind of community organizer that tries to lead as little as possible, instead trying to constantly mentor people and being there to support them as needed",
+        "social": {
+          "twitter": "https://twitter.com/agentaayush",
+          "linkedin": "https://www.linkedin.com/in/aayushagrawal101/"
+        }
+      },
+      {
+        "name": "Mounica Narkedamilli",
+        "community": {
+          "name": "GDG Cloud Bangalore",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "TATA consultancy services",
+          "designation": "Systems Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Learning and sharing at a time is bliss. I became a community leader in my early career life. So fortunate that I got this opportunity. After seeing the people bright faces who benefit from the meetup either from the content or networking the feeling is so awesome. I want this positive energy, that is one of the motivations in my life.",
+        "social": {
+          "twitter": "https://twitter.com/agentaayush",
+          "linkedin": "https://www.linkedin.com/in/aayushagrawal101/"
+        }
+      },
+      {
+        "name": "Swapnil Borkar",
+        "community": {
+          "name": "GDG MAD",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "TATA consultancy services",
+          "designation": "Systems Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "A passionate leader who is everything people-centric. Loves to design highly engaging meet-ups and communities.",
+        "social": {
+          "twitter": "https://twitter.com/swpnlbrkr",
+          "linkedin": "https://www.linkedin.com/in/swapnilborkar/"
+        }
+      },
+      {
+        "name": "Pratyusha Thumiki",
+        "community": {
+          "name": "GDG/WTM Hyderabad",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Microsoft",
+          "designation": "Consultant"
+        },  
+        "image": "profile.jpg",
+        "bio": "I'm an individual with a passion for learning and for helping others learn which made me work as a community leader where we can provide an opportunity to learn and grow to everyone collectively and encourage more participation of women, so we can harness our inner brilliance and gain more opportunities to move forward in our careers.",
+        "social": {
+          "twitter": "https://twitter.com/swpnlbrkr",
+          "linkedin": "https://www.linkedin.com/in/swapnilborkar/"
+        }
+      },
+      {
+        "name": "Prachi Shrikant Durge",
+        "community": {
+          "name": "GDG/WTM Baroda",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "AV Devs Pvt. Ltd",
+          "designation": "Android Team Lead"
+        },  
+        "image": "profile.jpg",
+        "bio": "I was an event organizer at first. I am involved with almost all the events happening with GDG Baroda. I've given Android 11 sessions with GDG Montreal,  GDG Indore and GDG Kolkata.",
+        "social": {
+          "twitter": "https://twitter.com/PrachiSSD",
+          "linkedin": "https://www.linkedin.com/in/prachi-d-158965b/"
+        }
+      },
+      {
+        "name": "Vishal Dubey",
+        "community": {
+          "name": "GDG MAD",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Agnostech Innovations LLP",
+          "designation": "Founder"
+        },  
+        "image": "profile.jpg",
+        "bio": "Helping early stage startups from ideation > prototype > product. Experimenting with latest technologies in the domain of full stack development.",
+        "social": {
+          "twitter": "https://twitter.com/naa_rang",
+          "linkedin": "https://linkedin.com/in/vishalaf"
+        }
+      },
+      {
+        "name": "Sumitra Bagchi",
+        "community": {
+          "name": "GDG Cloud Kolkata",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "EngageOnline",
+          "designation": "Developer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am GDG Cloud Kolkata organizer and WTM Ambassador from Kolkata. Organizing and motivating people from past one and half years. Through the community we share our knowledge with others in the community.",
+        "social": {
+          "twitter": "https://twitter.com/sumitrabagchi",
+          "linkedin": "https://www.linkedin.com/in/sumitra-bagchi-880b00140"
+        }
+      },
+      {
+        "name": "Dhruva Shastri",
+        "community": {
+          "name": "GDG/ WTM Ahmedabad",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "",
+          "designation": "Working Professional"
+        },  
+        "image": "profile.jpg",
+        "bio": "I would like to describe my leadership as the mixture of leading by example, facilitating open and compassionate communication and a serving leader. Keeping the community's needs a priority I demonstrate first and invite members to join for the project we need to work on and in a way keep everyone encouraged. By honest and kind communication I put myself in their shoes to understand their needs and hurdles and how #TogetherWeRise and bring out the best version of ourselves. As a servant leader I share the powers and gradually make them independent to take charge of their life on the pathway to success. So I am a strong and empathetic leader work towards the growth of people and community.\n\nE.g: https://speakerdeck.com/dhruvashastri12/things-i-wish-i-knew-about-the-impact-of-community-7c2d5587-ea8e-4d8f-a457-ca3b0e73f8ba?slide=23\n\nCharmi Chokshi is a ML GDE now.",
+        "social": {
+          "twitter": "https://twitter.com/dhruvashastri12",
+          "linkedin": "https://www.linkedin.com/in/dhruvashastri12"
+        }
+      },
+      {
+        "name": "Hiren Dave",
+        "community": {
+          "name": "GDG Ahmedabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "AbhayTech Solutions LLP.",
+          "designation": "Chief Technology Officer"
+        },  
+        "image": "profile.jpg",
+        "bio": "Tech Author / Blogger / Speaker with more than 12 years of experience. Always eager to learn new technologies and share knowledge with developer communities.  Always ready to mentor my fellow community members. Actively involved in various activities of many developer communities in Ahmedabad. Strongly believe in concept of \"For the Developers By the Developers\" and \"Givers Gain\"",
+        "social": {
+          "twitter": "https://twitter.com/hjdave",
+          "linkedin": "https://www.linkedin.com/in/davehiren/"
+        }
+      },
+      {
+        "name": "Naman Gupta",
+        "community": {
+          "name": "GDG New Delhi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Sprinklr",
+          "designation": "Product Engineer"
+        },  
+        "image": "profile.jpg",
+        "bio": "I am a person with less but not so small aims. I love seeing people growing and for this one thing one can find me constantly motivating and helping others. As a community leader, my major focus remains on helping who are beginning with something because I truly believe that this is the only stage when one needs the most help with.",
+        "social": {
+          "twitter": "https://twitter.com/insanenaman",
+          "linkedin": "https://linkedin.com/in/InsaneNaman"
+        }
+      },
+      {
+        "name": "Vinothini B",
+        "community": {
+          "name": "Gdg Cloud chennai",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Bridgei2i Analytics Solutions Private Ltd",
+          "designation": "Analytics Consultant"
+        },  
+        "image": "profile.jpg",
+        "bio": "I believe in giving back to the community.",
+        "social": {
+          "twitter": "https://twitter.com/_Vinob_",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Gaurav Sharma",
+        "community": {
+          "name": "GDG Hyderabad",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Letsmobility Software Solution",
+          "designation": "Co-Founder"
+        },  
+        "image": "profile.jpg",
+        "bio": "A community lead with more than 7 year of experience of running community have worked on each expect of community Volunteer, Speaker, Organiser, fund raiser and strategic partnership with other communities and corporate.",
+        "social": {
+          "twitter": "https://twitter.com/Gauravsharma531",
+          "linkedin": "https://www.linkedin.com/in/gaurav-sharma-0967b328/"
+        }
+      },
+      {
+        "name": "Nausheen Khilji",
+        "community": {
+          "name": "GDG Jodhpur",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Sufiartworks.com",
+          "designation": "Co-Founder"   
+        },  
+        "image": "profile.jpg",
+        "bio": "Being an active contributor of bluecity  community, i kept believing that technology is the only field which is free from toxic activities in the name of Religion, Human Color, Politics etc. The new realities in changing world is however reminding me about the basic belief i have as a responsible science oriented human. AI being a new power is required to be used responsibly. I am looking forward to analyze potential harms AI can cause without being greedy about it. As a community lead i am trying to inspire all to make business using suitable and creative tech tools that can help more people in different ways an create a ripple effect of our efforts. I am trying my best to inspire by doing a startup business Sufiartworks.com as owner that helps people's spirit HealWithLove using exciting technologies in the difficult hours of Pandemic.",
+        "social": {
+          "twitter": "https://twitter.com/Naushy90",
+          "linkedin": "http://in.linkedin.com/in/naushy"
+        }
+      },
+      {
+        "name": "Manikandan Krishnamurthy",
+        "community": {
+          "name": "GDG Cloud Chennai",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "TCS",
+          "designation": "GCP Architect"   
+        },  
+        "image": "profile.jpg",
+        "bio": "I am Mani. By passion, I am volunteers in multiple communities for 3+ years. By profession, I have 3+ years of experience as GCP Architect and 11+ years of experience as solution analyst. I love question, people, Chennai, GCP, cloud native, dart.",
+        "social": {
+          "twitter": "https://www.twitter.com/manikandank276",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Tayba Wasim",
+        "community": {
+          "name": "GDG Jaipur",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Ernst & Young",
+          "designation": "Assurance Associate (Contractual)"   
+        },  
+        "image": "profile.jpg",
+        "bio": "As a community leader : Leadership, Affability and undying Optimism are the key ingredients that describe me . I am always ready to be a value addition to my community and help them in realizing their hidden potential.",
+        "social": {
+          "twitter": "https://twitter.com/TaybaW16",
+          "linkedin": ""
+        }
+      },
+      {
+        "name": "Abhishek Yagnik",
+        "community": {
+          "name": "GDG Bhopal",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "",
+          "designation": ""   
+        },  
+        "image": "profile.jpg",
+        "bio": "I love helping others achieve goals. People are my strength, I have been very passionate in moving things on ground especially the tech community of Bhopal. I believe technology empowers masses fundamentally and should reach every soul of planet. In India, 2nd, 3rd and 4th tier cities still lack tech exposure and I see myself contributing towards it in coming days",
+        "social": {
+          "twitter": "https://twitter.com/abhishekx10",
+          "linkedin": "https://linkedin.com/in/abhishekyagnik"
+        }
+      },
+      {
+        "name": "Vandana Pv",
+        "community": {
+          "name": "GDG/WTM Hyderabad",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Marlabs",
+          "designation": "Software Engineer"   
+        },  
+        "image": "profile.jpg",
+        "bio": "I'm a global Voice developer who have a deep experience in developing voice skills on Google Assistant and Amazon Alexa and integrate them with web dashboards using React and Node. I have trained 40+ interns and always strive for the Google Assistant community growth. My passion lies in building creative products that solve real-world problems using my technical, leadership, and managing skills. I love to conduct and manage both tech and non tech events which helps in the shaping the career of the participants. I always desire to influence and bring more women to voice technology. I enjoy doing Calligraphy, designing and connecting with people, and planting trees at my free time.",
+        "social": {
+          "twitter": "https://twitter.com/IamVandanaPv/",
+          "linkedin": "https://in.linkedin.com/in/vandanapv"
+        }
+      },
+      {
+        "name": "Tushar Pal",
+        "community": {
+          "name": "GDG Indore",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "Protonshub Technologies",
+          "designation": "CTO and Co-founder"   
+        },  
+        "image": "profile.jpg",
+        "bio": "Tushar Pal is CTO and Co-founder of Protonshub Technologies and having a expertise in multiple technologies.\nHe is also product consultant at Diaspark Infotech to helping out a best product.\nCommunity Leader of Google Cloud Developer Community,Indore and Google Developers Group,Indore.\nThere is something special when career and passion comes together.\nHe is very big ambition to build the biggest ecosystem in a town which helps us to grow our careers and build a stronger network.",
+        "social": {
+          "twitter": "https://twitter.com/tpal94",
+          "linkedin": "https://www.linkedin.com/in/tushar-p-325b5869/"
+        }
+      },
+      {
+        "name": "Amen Tyagi",
+        "community": {
+          "name": "GDG Cloud New Delhi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "UX Gorilla",
+          "designation": "Product Designer"   
+        },  
+        "image": "profile.jpg",
+        "bio": "Tushar Pal is CTO and Co-founder of Protonshub Technologies and having a expertise in multiple technologies.\nI am also product consultant at Diaspark Infotech to helping out a best product.\nCommunity Leader of Google Cloud Developer Community,Indore and Google Developers Group,Indore.\nThere is something special when career and passion comes together.\n\"No excuses to yourself because reality is wrong and dreams are real \"\nHe is very big ambition to build the biggest ecosystem in a town which helps us to grow our careers and build a stronger network.",
+        "social": {
+          "twitter": "https://twitter.com/tpal94",
+          "linkedin": "https://www.linkedin.com/in/tushar-p-325b5869/"
+        }
+      },
+      {
+        "name": "Amen Tyagi",
+        "community": {
+          "name": "GDG Cloud New Delhi",
+          "designation": "Organizer"
+        },
+        "company": {
+          "name": "UX Gorilla",
+          "designation": "Product Designer"   
+        },  
+        "image": "profile.jpg",
+        "bio": "Amen loves discussing design, tech & business.",
+        "social": {
+          "twitter": "https://twitter.com/amentyagi",
+          "linkedin": "https://www.linkedin.com/in/amentyagi"
+        }
+      },
+      {
+        "name": "Ranu Jaiswal",
+        "community": {
+          "name": "GDG/WTM Indore",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Infobeans Technology",
+          "designation": "Software Engineer"   
+        },  
+        "image": "profile.jpg",
+        "bio": "Ranu is a software developer by profession and a dance lover by passion. She is keen interested in developing a change to encourage the women in tech. She likes to teach and provide support to those who are in need.",
+        "social": {
+          "twitter": "https://twitter.com/ranuj74",
+          "linkedin": "https://www.linkedin.com/in/ranu-jaiswal-255a84100"
+        }
+      },
+      {
+        "name": "Savvy Jain",
+        "community": {
+          "name": "GDG/WTM Indore",
+          "designation": "WTM Ambassador"
+        },
+        "company": {
+          "name": "Cofiato",
+          "designation": "CEO & Founder"   
+        },  
+        "image": "profile.jpg",
+        "bio": "Savvy loves data and everything around it. She used to be a data scientist and has experience working in various domains. She is currently CEO and Founder of Cofiato, which is a Hardware Intelligence firm. Her second love is community evangelism. She's associated with many technical and networking communities like GDG, GCDC, WTM, Linkedin Local, BNI etc. She is also Women in Data Science Regional Ambassador. She likes innovation, creativity, and coffee",
+        "social": {
+          "twitter": "https://twitter.com/savvyjain",
+          "linkedin": "https://www.linkedin.com/in/savvyjain"
+        }
+      }
+
+  ]
