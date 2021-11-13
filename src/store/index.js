@@ -53,42 +53,6 @@ export default new Vuex.Store({
       //   },
       // },
       {
-        text: "Communities",
-        to: "/communities",
-        icon: "mdi-form-select",
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
-      {
-        text: "Resources",
-        to: "/resources",
-        icon: "mdi-folder-outline",
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
-      // {
-      //   text: "Register",
-      //   to: "/registration",
-      //   icon: "mdi-account-circle",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //   },
-      // },
-      {
-        text: "Winner",
-        to: "/winners",
-        icon: "mdi-trophy-variant",
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
-      {
         text: "FAQ",
         to: "/faq",
         icon: "mdi-star",
@@ -97,7 +61,7 @@ export default new Vuex.Store({
           showBottomNav: false,
         },
       },
-      
+
     ],
   },
   getters:{

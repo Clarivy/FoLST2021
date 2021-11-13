@@ -33,51 +33,6 @@ Vue.use(VueRouter)
     }
   },
   {
-    path: '/communities',
-    name: 'Communities',
-    component: () => import(/* webpackChunkName: "Community Guidelines" */ '../views/Communities.vue'),
-    meta: {
-      title: 'Communities | FoLST 2021',
-      color: 'white'
-    }
-  },
-  {
-    path: '/resources',
-    name: 'Resources',
-    component: () => import(/* webpackChunkName: "Resources" */ '../views/Resources.vue'),
-    meta: {
-      title: 'Resources | FoLST 2021',
-      color: 'white'
-    }
-  },
-  // {
-  //   path: '/partners',
-  //   name: 'Partners',
-  //   component: () => import(/* webpackChunkName: "partners" */ '../views/Partners.vue'),
-  //   meta: {
-  //     title: 'Partners | FoLST 2021',
-  //     color: 'white'
-  //   }
-  // },
-  // {
-  //   path: '/volunteers',
-  //   name: 'Volunteers',
-  //   component: () => import(/* webpackChunkName: "volunteers" */ '../views/Volunteers.vue'),
-  //   meta: {
-  //     title: 'Volunteers | FoLST 2021',
-  //     color: 'white'
-  //   }
-  // },
-  // {
-  //   path: '/registration',
-  //   name: 'Registration',
-  //   component: () => import(/* webpackChunkName: "registration" */ '../views/Registration.vue'),
-  //   meta: {
-  //     title: 'Registration | FoLST 2021',
-  //     color: 'white'
-  //   }
-  // },
-  {
     path: '/speakers',
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
@@ -104,24 +59,6 @@ Vue.use(VueRouter)
       color: 'white'
     }
   },
-  {
-    path: '/winners',
-    name: 'Quiz Winners',
-    component: () => import(/* webpackChunkName: "speakers" */ '../views/Winners.vue'),
-    meta: {
-      title: 'Winners | FoLST 2021',
-      color: 'white'
-    }
-  },
-  // {
-  //   path: '/team',
-  //   name: 'Team',
-  //   component: () => import(/* webpackChunkName: "team" */ '../views/Team.vue'),
-  //   meta: {
-  //     title: 'Team | FoLST 2021',
-  //     color: 'white'
-  //   }
-  // },
   {
     path: '/tc',
     name: 'ParticipationTerms',

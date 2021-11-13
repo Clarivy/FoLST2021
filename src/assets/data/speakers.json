@@ -1,40 +1,5 @@
 [
     {
-        "id": "101",
-        "name":"示例：姓名",
-        "company": {
-            "name":"公司or学校名称",
-            "designation": "职位"
-        },
-        "bio": "speak相关介绍",
-        "image": "himanshu.jpg",
-        "sessionId": [
-            103
-        ],
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/himanshoe-singh/",
-            "twitter": "https://twitter.com/hi_man_shoe"
-        }
-    },
-    {
-        "id": "10300",
-        "name":"Niharika Arora(例子）",
-        "company": {
-            "name":"1mg",
-            "designation":"Senior Software Engineer"
-        },
-        "image": "niharika.jpg",
-        "bio": "Niharika Arora, also known as theDroidLady, is currently working as a Senior Software Engineer at 1mg. She is one of the core developers for Government of India's Contact tracing App \"AarogyaSetu\" to fight against COVID-19. She has been innovating on Android Application Development since 2015 by developing and delivering various android applications. Besides excelling at her 9-5 job, she also passionately shares her learnings through blog posts, public speaking and open source contributions. She is also mentoring people on career, growth and mobile application development. And yes, she never skips her gym and dance.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/thedroidlady/",
-            "twitter": "https://twitter.com/theDroidLady"
-            
-        },
-        "sessionId": [
-            102
-        ]
-    },
-    {
         "id": "102",
         "name":"毕国强",
         "company": {
@@ -44,7 +9,7 @@
         "image": "biguoqiang.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             103
@@ -60,7 +25,7 @@
         "image": "lihuaiyu.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             109
@@ -76,7 +41,7 @@
         "image": "chenliang.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             102
@@ -92,7 +57,7 @@
         "image": "",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             106
@@ -108,7 +73,7 @@
         "image": "dingxueying.jpeg",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             106
@@ -124,7 +89,7 @@
         "image": "Dipayan Rudra.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             105
@@ -140,7 +105,7 @@
         "image": "dupeng.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             108
@@ -156,7 +121,7 @@
         "image": "gaodong.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             105
@@ -172,7 +137,7 @@
         "image": "gaosgaorong.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             108
@@ -188,7 +153,7 @@
         "image": "huilijian.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             101
@@ -204,7 +169,7 @@
         "image": "jiangxuefeng.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             101
@@ -220,7 +185,7 @@
         "image": "liucong.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             107
@@ -236,7 +201,7 @@
         "image": "liujia.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             102
@@ -252,7 +217,7 @@
         "image": "liutianshu.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             105
@@ -268,7 +233,7 @@
         "image": "liurujuan.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             104
@@ -284,7 +249,7 @@
         "image": "luozonghua.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             101
@@ -300,7 +265,7 @@
         "image": "shileiming.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             105
@@ -316,7 +281,7 @@
         "image": "tianchanglin.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             107
@@ -332,7 +297,7 @@
         "image": "wanglijie.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             109
@@ -348,7 +313,7 @@
         "image": "wangquan.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             102
@@ -364,7 +329,7 @@
         "image": "wangwei.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             108
@@ -380,7 +345,7 @@
         "image": "wangxinquan.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             102
@@ -396,7 +361,7 @@
         "image": "wangyangming.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             104
@@ -412,7 +377,7 @@
         "image": "yangli.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             104
@@ -428,7 +393,7 @@
         "image": "yangyang.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             103
@@ -444,7 +409,7 @@
         "image": "",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             106
@@ -460,7 +425,7 @@
         "image": "zhangjie.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             103
@@ -476,7 +441,7 @@
         "image": "zhanglei.jpeg",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             108
@@ -492,7 +457,7 @@
         "image": "zhangqiangfeng.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             107
@@ -508,7 +473,7 @@
         "image": "zhangyuhua.jpeg",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             109
@@ -524,7 +489,7 @@
         "image": "zhaoshimin.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             101
@@ -540,7 +505,7 @@
         "image": "zhaosuwen.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             107
@@ -556,7 +521,7 @@
         "image": "zhoubin.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             108
@@ -572,7 +537,7 @@
         "image": "zhoujinqiu.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             104
@@ -587,7 +552,7 @@
         "image": "zhujidong.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             105
@@ -603,7 +568,7 @@
         "image": "zouyan.png",
         "bio": "",
         "social": {
-            
+
         },
         "sessionId": [
             103

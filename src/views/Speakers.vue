@@ -2,7 +2,7 @@
   <v-main class="ma-0">
     <v-container
       fluid
-      class="pb-0" 
+      class="pb-0"
       :class="this.$vuetify.theme.dark == true?'grey darken-4 elevation-1':'white-border white'"
     >
       <v-row justify="center" align="center">
@@ -11,7 +11,8 @@
             <v-row justify="start" align="center" class="">
               <v-col md="12" class="text-center" >
                 <p class="google-font mb-0" style="font-size: 3.5vh;line-height: 1.22;font-weight:500;color:#0005DF">Check out our speaker lineup</p>
-                <p class="google-font" style="width:80%;margin-left:auto;margin-right:auto;font-size:110%">Interested in Android, Flutter, Web, Cloud, ML technologies? <br>
+                <p class="google-font" style="width:80%;margin-left:auto;margin-right:auto;font-size:110%">
+                  Interested in Android, Flutter, Web, Cloud, ML technologies? <br>
                   Join the vibrant and divrse set of speakers where you can learn, network, share knowledge and enjoy the experience.
                 </p>
               </v-col>
@@ -24,7 +25,7 @@
     <v-container fluid class="mb-5 pb-5">
       <v-row justify="center" align="center">
         <v-col md="10" lg="10" sm="11" cols="12">
-          
+
           <v-container>
             <v-row class>
               <v-col
