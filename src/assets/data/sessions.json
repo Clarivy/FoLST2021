@@ -3,7 +3,7 @@
         "id": "101",
         "slide":"",
         "title":"代谢和化学生物学",
-        "description":"Zhao, Shimin:The generation and transmission of metabolites signals;\nJiang, Xuefeng:Life-related Sulfur Chemistry;\nluo, Zonghua:PET imaging of Sphingosine-1-phosphate Receptor 1 in Multiple Sclerosis;\nHui, Lijian:Cell Identity Conversion: Liver Regeneration and Diseases.",
+        "description":"Zhao, Shimin:The generation and trnsmission of metabolites signals;\nJiang, Xuefeng:Life-related Sulfur Chemistry;\nluo, Zonghua:PET imaging of Sphingosine-1-phosphate Receptor 1 in Multiple Sclerosis;\nHui, Lijian:Cell Identity Conversion: Liver Regeneration and Diseases.",
         "track": "General",
         "link": "",
         "format": "Day 1",
@@ -59,7 +59,7 @@
         "id": "105",
         "slide":"",
         "title":"精准医学",
-        "description":"Liu, Tianshu:The progress and challenges with the application of precised medicine in GI oncology field;\nZhu, Jidong:Drugging the “undruggable” proteins by regulating the dynamic liquid-liquid phase separation;\nShi, Leming:Quality Control and Standardization of Omics for Precision Medicine;\nRudra, Dipayan:Insights on the split personality of Regulatory T cells: Implications towards cancer immunotherapy.Gao, Dong:The cell origin and lineage plasticity of prostate cancer",
+        "description":"Liu, Tianshu:The progress and challenges with the application of precised medicine in GI oncology field;\n\nZhu, Jidong:Drugging the “undruggable” proteins by regulating the dynamic liquid-liquid phase separation;\nShi, Leming:Quality Control and Standardization of Omics for Precision Medicine;\nRudra, Dipayan:Insights on the split personality of Regulatory T cells and its implications for anti-tumor immunity.\nGao, Dong:The cell origin and lineage plasticity of prostate cancer",
         "link": "",
         "track": "General",
         "format": "Day 2",
@@ -136,7 +136,7 @@
         "date": "",
         "timeDuration": "",
         "speakers": [
-            
+
         ]
     },
     {
@@ -150,7 +150,7 @@
         "date": "",
         "timeDuration": "",
         "speakers": [
-            
+
         ]
     },
     {
@@ -164,7 +164,7 @@
         "date": "",
         "timeDuration": "",
         "speakers": [
-            
+
         ]
     }
 
