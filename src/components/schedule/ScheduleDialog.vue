@@ -101,8 +101,9 @@
               <p class="google-font my-1" style="font-size: 110%">
                 <b>Duration:</b> {{ data.timeDuration }} min
               </p>
-              <p class="google-font my-1" style="font-size: 110%">
-                <b>Description:</b> {{ data.description }}
+              <p class="google-font my-1" style="font-size: 110%; white-space: pre-wrap;">
+                <b>Description:</b> <br/>
+                {{ data.description }}
               </p>
               <v-chip
                 v-if="data.slide"
