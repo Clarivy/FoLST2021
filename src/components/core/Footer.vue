@@ -32,6 +32,11 @@
               class="mr-3 google-font grey--text text--darken-3"
               style="text-decoration:none;"
           >About SLST</a>
+          <a
+              href="https://github.com/DevFest-India/devfestindia-2020"
+              class="mr-3 google-font grey--text text--darken-3"
+              style="text-decoration:none;"
+          >Using source code from DevFest-India</a>
           <div>
 
           </div>

@@ -7,11 +7,6 @@
         <p class="devfest-font mt-5 mb-3" style="font-size:115%">
           <v-icon class="mb-1">mdi-calendar-text</v-icon>&nbsp;December 16-18,
           2021
-          <span style="color:#0005DF">
-            <b>|</b>
-          </span>
-          &nbsp;
-          <v-icon class="mb-1">mdi-access-point</v-icon>&nbsp;Online
         </p>
         <p class="google-font my-10" style="font-size: 110%;line-height: 1.22;font-weight:300;line-height: 1.6;">
           we would like to invite you to give a talk at the Frontier of Life Science and Technology (FoLST2021), organised by the School of Life Science and Technology (SLST) at ShanghaiTech University, with the help from iHuman Institute (iHuman), National Centre for Protein Science Shanghai (NCPSS), School of Biomedical Engineering (SBME), Shanghai Clinical Research and Trial Centre (SCRTC) and Shanghai Institute for Advanced Immunochemical Studies (SIAIS). The conference will take place on the campus of ShanghaiTech University(1 Zhongke Road, Pudong, Shanghai 201210, China) on 16-18 December 2021.
@@ -34,7 +29,7 @@
           rel="noreferrer"
           large
           style="text-transform: capitalize;border-radius:5px;border:1px solid #e0e0e0;color:#0005DF;background-color:white"
-          href="https://www.wjx.cn/"
+          href="https://www.wjx.top/vj/t8o4Z5p.aspx"
           class="google-font mr-3 mb-3"
           target="_blank"
           >Register for the conference</v-btn
@@ -43,7 +38,8 @@
       <v-col md="6" cols="12" class="text-center order-md-2 order-1">
         <v-img
           class="white"
-          :src="require('@/assets/img/home.svg')"
+          :src="require('@/assets/img/home.png')"
+          style="border-radius:20px;"
         >
           <template v-slot:placeholder>
             <v-row class="fill-height ma-0" align="center" justify="center">

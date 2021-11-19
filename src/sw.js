@@ -23,10 +23,9 @@ self.addEventListener("push", (event) => {
   }
   var options = {
     body: dataPush.body.body,
-    icon: "img/icons/favicon-32x32.png",
+    icon: "img/icons/logo.png",
     dir: "ltr",
     image: dataPush.image,
-    badge: "img/icons/favicon-32x32.png",
     tag: dataPush.tag,
     requireInteraction: true,
     renotify: true,
@@ -39,22 +38,4 @@ self.addEventListener("push", (event) => {
   };
   event.waitUntil(self.registration.showNotification(dataPush.title, options));
 });
-self.addEventListener(
-  "notificationclick",
-  (event) => {
-    if (event.action === "visit") {
-      clients.openWindow(dataPush.body.learnMore);
-    } else {
-      clients.openWindow("/");
-    }
-    event.notification.close();
-  },
-  false
-);
-
-workbox.core.setCacheNameDetails({
-  prefix: "cache",
-});
-
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

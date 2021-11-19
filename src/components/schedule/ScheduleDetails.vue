@@ -10,11 +10,11 @@
     >
       <v-col md="2" cols="3" class="text-right my-0 py-0">
         <p style="font-size:130%" class="mb-0 google-font">
-          {{ item.startTime }} PM
+          {{ item.startTime }}
         </p>
-        <p style="font-size:80%" class="ma-0 google-font">{{ item.endTime }} PM</p>
+        <p style="font-size:80%" class="ma-0 google-font">{{ item.endTime }}</p>
         <p class="mt-1 google-font" style="font-size:70%">
-          <b style="color:grey">GMT (+05:30)</b>
+          <b style="color:grey">GMT (+08:00)</b>
         </p>
       </v-col>
       <v-col

@@ -12,8 +12,7 @@
               <v-col md="12" class="text-center" >
                 <p class="google-font mb-0" style="font-size: 3.5vh;line-height: 1.22;font-weight:500;color:#0005DF">Check out our speaker lineup</p>
                 <p class="google-font" style="width:80%;margin-left:auto;margin-right:auto;font-size:110%">
-                  Interested in Android, Flutter, Web, Cloud, ML technologies? <br>
-                  Join the vibrant and divrse set of speakers where you can learn, network, share knowledge and enjoy the experience.
+<!--Enter some text-->
                 </p>
               </v-col>
             </v-row>
