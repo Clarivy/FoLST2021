@@ -61,7 +61,6 @@
         >{{ link.text }}</v-tab
       >
     </v-tabs>
-    <PushNotification />
     <!--  -->
     <!-- v-if="!(this.$route.name === 'Registration')"  -->
     <!-- <v-btn style="text-transform: capitalize;border-radius:5px;padding:00% 40px;" dark color="#0005DF" class="ml-4 google-font hidden-md-and-down" to="/registration" depressed
@@ -80,16 +79,12 @@
 <script>
 // import FDK from "@/config/firebase";
 import { mapGetters, mapMutations } from "vuex";
-import PushNotification from "./PushNotification";
 export default {
   data: () => ({
     timeout: 6000,
     user: {},
     menu: false,
   }),
-  components: {
-    PushNotification,
-  },
   computed: {
     ...mapGetters(["links"]),
   },
