@@ -37,10 +37,10 @@
           rel="noreferrer"
           large
           style="text-transform: capitalize;border-radius:5px;border:1px solid #e0e0e0;color:#0005DF;background-color:white"
-          href="http://badge.devfestindia.com/"
+          href="https://www.wjx.cn/"
           class="google-font mr-3 mb-3"
           target="_blank"
-          >Get your Profile Badge</v-btn
+          >Register for the conference</v-btn
         >
       </v-col>
       <v-col md="6" cols="12" class="text-center order-md-2 order-1">
