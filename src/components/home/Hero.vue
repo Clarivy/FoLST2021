@@ -5,8 +5,8 @@
       <v-col md="6" cols="12" class="order-md-1 order-2">
         <p class="google-font mb-2" style="font-size: 5.5vh;line-height: 1.22;font-weight:900">FoLST 2021</p>
         <p class="devfest-font mt-5 mb-3" style="font-size:115%">
-          <v-icon class="mb-1">mdi-calendar-text</v-icon>&nbsp;October 16-18,
-          2020
+          <v-icon class="mb-1">mdi-calendar-text</v-icon>&nbsp;December 16-18,
+          2021
           <span style="color:#0005DF">
             <b>|</b>
           </span>
@@ -16,7 +16,7 @@
         <p class="google-font my-10" style="font-size: 110%;line-height: 1.22;font-weight:300;line-height: 1.6;">
           we would like to invite you to give a talk at the Frontier of Life Science and Technology (FoLST2021), organised by the School of Life Science and Technology (SLST) at ShanghaiTech University, with the help from iHuman Institute (iHuman), National Centre for Protein Science Shanghai (NCPSS), School of Biomedical Engineering (SBME), Shanghai Clinical Research and Trial Centre (SCRTC) and Shanghai Institute for Advanced Immunochemical Studies (SIAIS). The conference will take place on the campus of ShanghaiTech University(1 Zhongke Road, Pudong, Shanghai 201210, China) on 16-18 December 2021.
         <br><br>
-        The purpose of this conference is to provide an opportunity to discuss the growing fields of life science and technology in areas such as immunity and metabolism, molecular/cellular/developmental biology, neuroscience, structural biology, genomics/genetics/systems cell biology/omics, stem cell and regeneration, as well as health care management. Since the frontier of life science and technology has drawn people from a wide array of backgrounds working in many different systems, we hope that by bringing many of us together for such a forum we can begin to forge an interactive community of people. Your participation would greatly promote this goal. 
+        The purpose of this conference is to provide an opportunity to discuss the growing fields of life science and technology in areas such as immunity and metabolism, molecular/cellular/developmental biology, neuroscience, structural biology, genomics/genetics/systems cell biology/omics, stem cell and regeneration, as well as health care management. Since the frontier of life science and technology has drawn people from a wide array of backgrounds working in many different systems, we hope that by bringing many of us together for such a forum we can begin to forge an interactive community of people. Your participation would greatly promote this goal.
         </p>
         <!-- <v-btn
           dark

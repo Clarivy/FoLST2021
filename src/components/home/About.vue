@@ -25,16 +25,6 @@
           Certificate of participation will be provided per track at the end of third day!
         </p>
 
-        <v-btn
-          depressed
-          rel="noreferrer"
-          large
-          style="text-transform: capitalize;border-radius:5px;border:1px solid #e0e0e0;color:#0005DF;background-color:white"
-          href="https://gdg.community.dev/devfest"
-          class="google-font mr-3 mb-3"
-          target="_blank"
-          >Learn More About GDG Devfest</v-btn
-        >
       </v-col>
     </v-row>
    </v-container>
