@@ -42,15 +42,6 @@ Vue.use(VueRouter)
     }
   },
   {
-    path: '/faq',
-    name: 'FAQ',
-    component: () => import(/* webpackChunkName: "speakers" */ '../views/FAQ.vue'),
-    meta: {
-      title: 'FAQ | FoLST 2021',
-      color: 'white'
-    }
-  },
-  {
     path: '/coc',
     name: 'CodeofConducts',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/COC.vue'),

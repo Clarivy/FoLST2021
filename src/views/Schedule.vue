@@ -18,10 +18,6 @@
           >
             Schedule
           </p>
-          <p class="google-font mb-10" style="font-size: 120%">
-            Follow code demonstrations by our expert speakers on 5  different tracks. Check out the schedule below and don't forget to mark your calendar so that you don't miss out on any sessions. <br /><br />
-            Add <a :href="calanderEvents['Mobile'].link" target="_blank">Mobile</a>, <a :href="calanderEvents['Web'].link" target="_blank">Web</a>, <a :href="calanderEvents['Cloud'].link" target="_blank">Cloud</a>, <a :href="calanderEvents['Flutter'].link" target="_blank">Flutter</a>, and <a :href="calanderEvents['ML'].link" target="_blank">Machine Learning</a> Track to your Google Calendar.
-          </p>
           <v-tabs
             v-model="model"
             :grow="getMobileTab()"
@@ -97,14 +93,6 @@ export default {
   data: () => ({
     model: "day1",
     ScheduleData: [],
-    calanderEvents: {
-      ML: {link:"https://www.google.com/calendar/render?action=TEMPLATE&text=Machine+Learning+Track+%7C+DevFest+India&details=Machine+Learning+Track+%0A%0AIn+the+ML+track%2C+We+will+build+an+end+to+end+predictive+model+pipeline+using+colab+then+will+learn+to+use+DevOps+for+ML+and+conclude+it+with+an+image+classification+case+study+to+classify+tumors+in+health+reports+using+TensorFlow.%0A%0ASee+the+sessions+at%3Ahttps%3A%2F%2Fwww.youtube.com%2Fc%2Fdevfestindia+on+Oct+16+to+Oct+18+from+04%3A00+PM+to+05%3A00+PM+%28IST%29+%0A%0ASee+more+details+about+the+DevFest+India%3A+https%3A%2F%2Fdevfestindia.com%0A%0A%23DevFestIndia+%23DevFest&dates=20201016T103000Z%2F20201018T113000Z",},
-      General: {link: "",},
-      Cloud: { link: "https://www.google.com/calendar/render?action=TEMPLATE&text=Cloud+Track+%7C+DevFest+India&details=Cloud+Track+%0A%0AIn+the+Cloud+track%2C+We+will+take+you+through+a+tour+of+GCP+followed+by+deploying+applications+and+analyzing+data+on+with+Big+Query+and+ML%2C+all+on+Google+Cloud.%0A%0ASee+the+sessions+at%3A+https%3A%2F%2Fwww.youtube.com%2Fc%2Fdevfestindia+on+Oct+16+to+Oct+18+from+08%3A00+PM+to+09%3A00+PM+%28IST%29+%0A%0ASee+more+details+about+the+DevFest+India%3A+https%3A%2F%2Fdevfestindia.com%0A%0A%23DevFestIndia+%23DevFest&dates=20201016T143000Z%2F20201018T153000Z" },
-      Flutter: { link: "https://www.google.com/calendar/render?action=TEMPLATE&text=Flutter+Track+%7C+DevFest+India&details=Flutter+Track+%0A%0AIn+the+Flutter+track%2C+We+will+build+a+cross-platform+application+covering+the+concepts+of+UI+development+with+responsive+layouts%2C+navigation+concepts+and+API+management.%0A%0ASee+the+sessions+at%3A+https%3A%2F%2Fwww.youtube.com%2Fc%2Fdevfestindia+on+Oct+16+to+Oct+18+from+08%3A00+PM+to+09%3A00+PM+%28IST%29+%0A%0ASee+more+details+about+the+DevFest+India%3A+https%3A%2F%2Fdevfestindia.com%0A%0A%23DevFestIndia+%23DevFest&dates=20201017T123000Z%2F20201018T133000Z" },
-      Mobile: { link: "https://www.google.com/calendar/render?action=TEMPLATE&text=Mobile+Track+%7C+DevFest+India&details=Mobile+Track+%0A%0AIn+the+Mobile+track%2C+We+will+build+a+clone+of+BookMyShow+App+using+UI+basics%2C+loading+dynamic+content+from+the+server+and+how+to+make+the+app+available+run+offline.%0A%0ASee+the+sessions+at%3A+https%3A%2F%2Fwww.youtube.com%2Fc%2Fdevfestindia+on+Oct+16+to+Oct+18+from+05%3A00+PM+to+06%3A00+PM+%28IST%29+%0A%0ASee+more+details+about+the+DevFest+India%3A+https%3A%2F%2Fdevfestindia.com%0A%0A%23DevFestIndia+%23DevFest&dates=20201016T113000Z%2F20201018T123000Z" },
-      Web: { link: "https://www.google.com/calendar/render?action=TEMPLATE&text=Web+Track+%7C+DevFest+India&details=Web+Track+%0A%0AIn+the+Web+track%2C+We+will+build+a+cute+Pokemon+website+from+scratch.+It%27d+be+more+than+just+a+plain+site.+It%27d+be+Fast%2C+Integrated%2C+Reliable+and+Engaging+Progressive+Web+App+deployed+over+FIRE+base%21%0A%0ASee+the+sessions+at%3A+https%3A%2F%2Fwww.youtube.com%2Fc%2Fdevfestindia+on+Oct+16+to+Oct+18+from+07%3A00+PM+to+08%3A00+PM+%28IST%29+%0A%0ASee+more+details+about+the+DevFest+India%3A+https%3A%2F%2Fdevfestindia.com%0A%0A%23DevFestIndia+%23DevFest&dates=20201016T133000Z%2F20201018T143000Z" },
-    },
   }),
   mounted() {
     this.ScheduleData = ScheduleData;
