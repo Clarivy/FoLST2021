@@ -1,7 +1,7 @@
 [
     {
         "id": "102",
-        "name":"BI, Guoqiang",
+        "name":"Bi, Guoqiang",
         "company": {
             "name":"University of Science and Technology of China",
             "designation": ""
@@ -17,7 +17,7 @@
     },
     {
         "id": "103",
-        "name":"LI, Huaiyu",
+        "name":"Li, Huaiyu",
         "company": {
             "name":"StartHub",
             "designation":"CEO"
@@ -81,7 +81,7 @@
     },
     {
         "id": "107",
-        "name":"Dipayan Rudra",
+        "name":"Rudra, Dipayan",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -97,7 +97,7 @@
     },
     {
         "id": "108",
-        "name":"DU, Peng",
+        "name":"Du, Peng",
         "company": {
             "designation":"",
             "name":"Peking University"
@@ -145,7 +145,7 @@
     },
     {
         "id": "111",
-        "name":"HUI, Lijian",
+        "name":"Hui, Lijian",
         "company": {
             "designation":"",
             "name":"Center for Excellence in Molecular Cell Science,CAS"
@@ -180,7 +180,7 @@
         "name":"Liu, Cong",
         "company": {
             "designation":"",
-            "name":"the Interdisciplinary Research Center of Biology and Chemistry"
+            "name":"Interdisciplinary Research Center of Biology and Chemistry, CAS"
         },
         "image": "liucong.jpg",
         "bio": "",
@@ -292,7 +292,7 @@
         "name":"Wang, Lijie",
         "company": {
             "designation":"",
-            "name":"CORRECT SEQUENCE"
+            "name":"Correct Sequence"
         },
         "image": "wanglijie.jpg",
         "bio": "",
@@ -401,7 +401,7 @@
     },
     {
         "id": "127",
-        "name":"YU, Lingli",
+        "name":"Yu, Lingli",
         "company": {
             "designation":"",
             "name":"SCDEI"
@@ -497,7 +497,7 @@
     },
     {
         "id": "133",
-        "name":"Zhang, Suwen",
+        "name":"Zhao, Suwen",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -512,7 +512,7 @@
         ]
     },
     {
-        "id": "133",
+        "id": "134",
         "name":"Zhou, Bin",
         "company": {
             "designation":"",
@@ -528,7 +528,7 @@
         ]
     },
     {
-        "id": "133",
+        "id": "135",
         "name":"Zhou, Jinqiu",
         "company": {
             "designation":"",
@@ -543,7 +543,7 @@
             104
         ]
     },{
-        "id": "133",
+        "id": "136",
         "name":"Zhu, Jidong",
         "company": {
             "designation":"CEO",
@@ -559,7 +559,7 @@
         ]
     },
     {
-        "id": "133",
+        "id": "137",
         "name":"Zou, Yan",
         "company": {
             "designation":"",
