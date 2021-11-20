@@ -1,9 +1,9 @@
 [
     {
         "id": "102",
-        "name":"毕国强",
+        "name":"BI, Guoqiang",
         "company": {
-            "name":"中国科技大学/中科院深圳先进院",
+            "name":"University of Science and Technology of China",
             "designation": ""
         },
         "image": "biguoqiang.png",
@@ -17,9 +17,9 @@
     },
     {
         "id": "103",
-        "name":"李怀宇",
+        "name":"LI, Huaiyu",
         "company": {
-            "name":"联育孵化器",
+            "name":"StartHub",
             "designation":"CEO"
         },
         "image": "lihuaiyu.png",
@@ -33,9 +33,9 @@
     },
     {
         "id": "104",
-        "name":"陈亮",
+        "name":"Chen, Liang",
         "company": {
-            "name":"上海大学医学院",
+            "name":"Shanghai University",
             "designation":""
         },
         "image": "chenliang.png",
@@ -49,10 +49,10 @@
     },
     {
         "id": "105",
-        "name":"陈一飞",
+        "name":"Chen, Yifei",
         "company": {
             "designation":"",
-            "name":"上海药品审评核查中心(药理临床试验)"
+            "name":"SCDEI"
         },
         "image": "chenyifei.jpg",
         "bio": "",
@@ -65,10 +65,10 @@
     },
     {
         "id": "106",
-        "name":"丁雪鹰",
+        "name":"Ding, Xueying",
         "company": {
-            "designation":"上海交通大学附属第一人民医院",
-            "name":"科研处副处长/临床研究中心副主任"
+            "designation":"Shanghai General Hospital",
+            "name":""
         },
         "image": "dingxueying.jpeg",
         "bio": "",
@@ -84,7 +84,7 @@
         "name":"Dipayan Rudra",
         "company": {
             "designation":"",
-            "name":"上海科技大学生命学院"
+            "name":"ShanghaiTech University"
         },
         "image": "Dipayan Rudra.png",
         "bio": "",
@@ -97,10 +97,10 @@
     },
     {
         "id": "108",
-        "name":"杜鹏",
+        "name":"DU, Peng",
         "company": {
             "designation":"",
-            "name":"北京大学"
+            "name":"Peking University"
         },
         "image": "dupeng.png",
         "bio": "",
@@ -113,10 +113,10 @@
     },
     {
         "id": "109",
-        "name":"高栋",
+        "name":"Gao, Dong",
         "company": {
             "designation":"",
-            "name":"中科院分子细胞卓越中心"
+            "name":"Center for Excellence in Molecular Cell Science,CAS"
         },
         "image": "gaodong.png",
         "bio": "",
@@ -129,10 +129,10 @@
     },
     {
         "id": "110",
-        "name":"高绍荣",
+        "name":"Gao, Shaorong",
         "company": {
             "designation":"",
-            "name":"同济大学"
+            "name":"Tongji University"
         },
         "image": "gaosgaorong.png",
         "bio": "",
@@ -145,10 +145,10 @@
     },
     {
         "id": "111",
-        "name":"惠利健",
+        "name":"HUI, Lijian",
         "company": {
             "designation":"",
-            "name":"中科院分子细胞卓越中心"
+            "name":"Center for Excellence in Molecular Cell Science,CAS"
         },
         "image": "huilijian.png",
         "bio": "",
@@ -161,10 +161,10 @@
     },
     {
         "id": "112",
-        "name":"姜雪峰",
+        "name":"Jiang, Xuefeng",
         "company": {
             "designation":"",
-            "name":"华东师范大学"
+            "name":"East China Normal University"
         },
         "image": "jiangxuefeng.png",
         "bio": "",
@@ -177,10 +177,10 @@
     },
     {
         "id": "113",
-        "name":"刘聪",
+        "name":"Liu, Cong",
         "company": {
             "designation":"",
-            "name":"中科院化学所交叉中心"
+            "name":"the Interdisciplinary Research Center of Biology and Chemistry"
         },
         "image": "liucong.png",
         "bio": "",
@@ -193,10 +193,10 @@
     },
     {
         "id": "114",
-        "name":"刘佳",
+        "name":"Liu, Jia",
         "company": {
             "designation":"",
-            "name":"上海科技大学免化所"
+            "name":"ShanghaiTech University"
         },
         "image": "liujia.png",
         "bio": "",
@@ -209,10 +209,10 @@
     },
     {
         "id": "115",
-        "name":"刘天舒",
+        "name":"Liu, Tianshu",
         "company": {
-            "designation":"肿瘤防治中心秘书长，肿瘤内科主任",
-            "name":"复旦大学附属中山医院"
+            "designation":"",
+            "name":"Fudan University"
         },
         "image": "liutianshu.png",
         "bio": "",
@@ -225,10 +225,10 @@
     },
     {
         "id": "116",
-        "name":"刘如娟",
+        "name":"Liu, Rujuan",
         "company": {
             "designation":"",
-            "name":"上海科技大学生命学院"
+            "name":"ShanghaiTech University"
         },
         "image": "liurujuan.png",
         "bio": "",
@@ -241,10 +241,10 @@
     },
     {
         "id": "117",
-        "name":"罗宗化",
+        "name":"Luo, Zonghua",
         "company": {
             "designation":"",
-            "name":"上海科技大学生医工学院"
+            "name":"ShanghaiTech University"
         },
         "image": "luozonghua.png",
         "bio": "",
@@ -257,10 +257,10 @@
     },
     {
         "id": "118",
-        "name":"石乐明",
+        "name":"Shi, Leiming",
         "company": {
             "designation":"",
-            "name":"复旦大学"
+            "name":"Fudan University"
         },
         "image": "shileiming.png",
         "bio": "",
@@ -273,10 +273,10 @@
     },
     {
         "id": "119",
-        "name":"田长麟",
+        "name":"Tian, Changlin",
         "company": {
             "designation":"",
-            "name":"中国科学技术大学"
+            "name":"University of Science and Technology of China"
         },
         "image": "tianchanglin.png",
         "bio": "",
@@ -289,10 +289,10 @@
     },
     {
         "id": "120",
-        "name":"王丽洁",
+        "name":"Wang, Lijie",
         "company": {
             "designation":"",
-            "name":"正序生物"
+            "name":"CORRECT SEQUENCE"
         },
         "image": "wanglijie.png",
         "bio": "",
@@ -305,10 +305,10 @@
     },
     {
         "id": "121",
-        "name":"王权",
+        "name":"Wang, Quan",
         "company": {
             "designation":"",
-            "name":"国家蛋白质中心-上海"
+            "name":"National Center for Protem Science Shanghai"
         },
         "image": "wangquan.png",
         "bio": "",
@@ -321,7 +321,7 @@
     },
     {
         "id": "122",
-        "name":"王伟",
+        "name":"Wang, Wei",
         "company": {
             "designation":"",
             "name":"NIBS"
@@ -337,10 +337,10 @@
     },
     {
         "id": "123",
-        "name":"王新泉",
+        "name":"Wang, Xinquan",
         "company": {
             "designation":"",
-            "name":"清华大学"
+            "name":"Tsinghua University"
         },
         "image": "wangxinquan.png",
         "bio": "",
@@ -353,10 +353,10 @@
     },
     {
         "id": "124",
-        "name":"汪阳明",
+        "name":"Wang, Yangming",
         "company": {
             "designation":"",
-            "name":"北京大学"
+            "name":"Peking University"
         },
         "image": "wangyangming.png",
         "bio": "",
@@ -369,10 +369,10 @@
     },
     {
         "id": "125",
-        "name":"杨力",
+        "name":"Yang, Li",
         "company": {
             "designation":"",
-            "name":"中科院上海营养与健康所"
+            "name":"Shanghai Institute of Nutrition and Health, CAS"
         },
         "image": "yangli.png",
         "bio": "",
@@ -385,10 +385,10 @@
     },
     {
         "id": "126",
-        "name":"杨扬",
+        "name":"Yang, Yang",
         "company": {
             "designation":"",
-            "name":"上海科技大学生命学院"
+            "name":"ShanghaiTech University"
         },
         "image": "yangyang.png",
         "bio": "",
@@ -401,10 +401,10 @@
     },
     {
         "id": "127",
-        "name":"于玲莉",
+        "name":"YU, Lingli",
         "company": {
             "designation":"",
-            "name":"上海药品审评核查中心"
+            "name":"SCDEI"
         },
         "image": "yulingli.jpg",
         "bio": "",
@@ -417,10 +417,10 @@
     },
     {
         "id": "128",
-        "name":"张杰",
+        "name":"Zhang, Jie",
         "company": {
             "designation":"",
-            "name":"厦门大学医学院"
+            "name":"Xiamen Universitv"
         },
         "image": "zhangjie.png",
         "bio": "",
@@ -433,10 +433,10 @@
     },
     {
         "id": "129",
-        "name":"张雷",
+        "name":"Zhang, Lei",
         "company": {
             "designation":"",
-            "name":"中科院分子细胞卓越中心"
+            "name":"Center for Excellence in Molecular Cell Science, CAS"
         },
         "image": "zhanglei.jpeg",
         "bio": "",
@@ -449,10 +449,10 @@
     },
     {
         "id": "130",
-        "name":"张强锋",
+        "name":"Zhang, Qiangfeng",
         "company": {
             "designation":"",
-            "name":"清华大学"
+            "name":"Tsinghua University"
         },
         "image": "zhangqiangfeng.png",
         "bio": "",
@@ -465,10 +465,10 @@
     },
     {
         "id": "131",
-        "name":"张玉华",
+        "name":"Zhang, Yuehua",
         "company": {
             "designation":"CEO",
-            "name":"和径医药"
+            "name":"JING MEDICINE"
         },
         "image": "zhangyuhua.jpeg",
         "bio": "",
@@ -481,10 +481,10 @@
     },
     {
         "id": "132",
-        "name":"赵世民",
+        "name":"Zhang, Shimin",
         "company": {
             "designation":"",
-            "name":"复旦大学"
+            "name":"Fudan University"
         },
         "image": "zhaoshimin.png",
         "bio": "",
@@ -497,10 +497,10 @@
     },
     {
         "id": "133",
-        "name":"赵素文",
+        "name":"Zhang, Suwen",
         "company": {
             "designation":"",
-            "name":"上海科技大学iHuman"
+            "name":"ShanghaiTech University"
         },
         "image": "zhaosuwen.png",
         "bio": "",
@@ -513,10 +513,10 @@
     },
     {
         "id": "133",
-        "name":"周斌",
+        "name":"Zhou, Bin",
         "company": {
             "designation":"",
-            "name":"中科院分子细胞卓越中心"
+            "name":"Center for Excellence in Molecular Cell Science, CAS"
         },
         "image": "zhoubin.png",
         "bio": "",
@@ -529,10 +529,10 @@
     },
     {
         "id": "133",
-        "name":"周金秋",
+        "name":"Zhou, Jinqiu",
         "company": {
             "designation":"",
-            "name":"中科院分子细胞卓越中心"
+            "name":"Center for Excellence in Molecular Cell Science, CAS"
         },
         "image": "zhoujinqiu.png",
         "bio": "",
@@ -544,10 +544,10 @@
         ]
     },{
         "id": "133",
-        "name":"朱继东",
+        "name":"Zhu, Jidong",
         "company": {
             "designation":"CEO",
-            "name":"奕拓生物"
+            "name":"ETERN BIOLOGY"
         },
         "image": "zhujidong.png",
         "bio": "",
@@ -560,10 +560,10 @@
     },
     {
         "id": "133",
-        "name":"邹燕",
+        "name":"Zou, Yan",
         "company": {
             "designation":"",
-            "name":"上海科技大学生命学院"
+            "name":"ShanghaiTech University"
         },
         "image": "zouyan.png",
         "bio": "",
