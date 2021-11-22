@@ -4,8 +4,8 @@
     <v-row justify="center" align="center" class="py-5">
       <v-col md="6" cols="12" class="order-md-1 order-2">
         <p class="google-font mb-2" style="font-size: 5.5vh;line-height: 1.22;font-weight:900">FoLST2021</p>
-        <p class="google-font mb-2" style="font-size: 3.5vh;line-height: 1.22;font-weight:900">Frontier of Life Science and Technology (FoLST2021)</p>
-        <p class="google-font mb-2" style="font-size: 3.5vh;line-height: 1.22;font-weight:900">ShanghaiTech University</p>
+        <p class="google-font mb-2" style="font-size: 2.2vh;line-height: 1.22;font-weight:500; color:grey;">Frontier of Life Science and Technology</p>
+        <p class="google-font mb-2" style="font-size: 2.2vh;line-height: 1.22;font-weight:500; color:grey">In ShanghaiTech University</p>
         <p class="devfest-font mt-5 mb-3" style="font-size:115%">
           <v-icon class="mb-1">mdi-calendar-text</v-icon>&nbsp;December 16-18,
           2021

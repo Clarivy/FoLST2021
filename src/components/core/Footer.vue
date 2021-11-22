@@ -9,7 +9,7 @@
           <v-card-text class="mx-0 px-0" style="height: 40px; position: relative">
             <h1
               class="google-font"
-            >FoLST 2021</h1>
+            >FoLST2021</h1>
           </v-card-text>
         </v-col>
       </v-row>

@@ -6,7 +6,7 @@
             <h3 class="google-font">Participation Terms & Privacy Policy</h3>
             <ul class="mt-3">
                 <li>
-                    <p class="google-font">I agree to let FoLST 2021 Organisers use the information collected in this form to be used for my participation in "FoLST 2021 2020 Event". This information and any information that the organisers collects from me during my participation in this program will be maintained in accordance with Conference Privacy Policy </p>
+                    <p class="google-font">I agree to let FoLST2021 Organisers use the information collected in this form to be used for my participation in "FoLST2021 2020 Event". This information and any information that the organisers collects from me during my participation in this program will be maintained in accordance with Conference Privacy Policy </p>
                 </li>
                 <li>
                     <p class="google-font">I acknowledge that my contact information can be used to send communications  about program updates and related details</p>

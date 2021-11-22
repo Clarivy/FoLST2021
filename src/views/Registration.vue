@@ -420,7 +420,7 @@
                   ></v-checkbox>
                   <p
                     class="mt-3"
-                  >I agree to let FoLST 2021 Organisers use the information collected in this form to be used for my participation in "FoLST 2021 2020 Event".</p>
+                  >I agree to let FoLST2021 Organisers use the information collected in this form to be used for my participation in "FoLST2021 2020 Event".</p>
                   <p>
                     I have read and agree to the
                     <router-link to="/tc" target="_blank">Participation Terms</router-link>, <router-link to="/coc" target="_blank">Code of conducts</router-link> & <a href="https://developers.google.com/community-guidelines" rel=“noreferrer” target="_blank">Community Guidelines</a>

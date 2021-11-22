@@ -4,7 +4,7 @@
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="google-font py-1" style="font-size:130%">
-          FoLST 2021
+          FoLST2021
         </v-list-item-title>
       </v-list-item-content>
     </v-list-item>

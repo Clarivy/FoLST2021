@@ -6,7 +6,7 @@
           class="google-font"
           style="font-size: 3.5vh;line-height: 1.22;font-weight:500"
         >
-          Keep in touch with FoLST 2021 for the latest announcements
+          Keep in touch with FoLST2021 for the latest announcements
         </p>
         <p class="google-font mb-2" style="font-size: 2.0vh;">
           Let's get connected so that we can reach out to each other via a simple notification.

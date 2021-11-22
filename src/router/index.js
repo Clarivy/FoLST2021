@@ -10,7 +10,7 @@ Vue.use(VueRouter)
     name: 'Home',
     component: Home,
     meta: {
-      title: 'Home | FoLST 2021',
+      title: 'Home | FoLST2021',
       color: 'white'
     }
   },
@@ -19,7 +19,7 @@ Vue.use(VueRouter)
     name: 'Schedule',
     component: () => import(/* webpackChunkName: "agenda" */ '../views/Schedule.vue'),
     meta: {
-      title: 'Schedule | FoLST 2021',
+      title: 'Schedule | FoLST2021',
       color: 'white'
     }
   },
@@ -28,7 +28,7 @@ Vue.use(VueRouter)
     name: 'Community Guidelines',
     component: () => import(/* webpackChunkName: "Community Guidelines" */ '../views/CommunityGuidelines.vue'),
     meta: {
-      title: 'Community Guidelines | FoLST 2021',
+      title: 'Community Guidelines | FoLST2021',
       color: 'white'
     }
   },
@@ -37,7 +37,7 @@ Vue.use(VueRouter)
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
     meta: {
-      title: 'Speakers | FoLST 2021',
+      title: 'Speakers | FoLST2021',
       color: 'white'
     }
   },
@@ -46,7 +46,7 @@ Vue.use(VueRouter)
     name: 'CodeofConducts',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/COC.vue'),
     meta: {
-      title: 'Code of Conducts | FoLST 2021',
+      title: 'Code of Conducts | FoLST2021',
       color: 'white'
     }
   },
@@ -55,7 +55,7 @@ Vue.use(VueRouter)
     name: 'ParticipationTerms',
     component: () => import(/* webpackChunkName: "ParticipationTerms" */ '../views/TC.vue'),
     meta: {
-      title: 'Participation Terms & Privacy Policy | FoLST 2021',
+      title: 'Participation Terms & Privacy Policy | FoLST2021',
       color: 'white'
     }
   },
