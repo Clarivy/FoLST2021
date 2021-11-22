@@ -37,6 +37,12 @@
               class="mr-3 google-font grey--text text--darken-3"
               style="text-decoration:none;"
           >Using source code from DevFest-India</a>
+          <br class="hidden-md-and-up">
+          <div target="_blank"
+               rel="noreferrer"
+               class="grey--text text--darken-3 mr-4 google-font"
+               style="text-decoration:none;"
+          >Contact us: &nbsp;<b>slst-conference@shanghaitech.edu.cn</b></div>
           <div>
 
           </div>

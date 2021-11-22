@@ -24,15 +24,6 @@ Vue.use(VueRouter)
     }
   },
   {
-    path: '/community-guidelines',
-    name: 'Community Guidelines',
-    component: () => import(/* webpackChunkName: "Community Guidelines" */ '../views/CommunityGuidelines.vue'),
-    meta: {
-      title: 'Community Guidelines | FoLST2021',
-      color: 'white'
-    }
-  },
-  {
     path: '/speakers',
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
@@ -42,20 +33,11 @@ Vue.use(VueRouter)
     }
   },
   {
-    path: '/coc',
-    name: 'CodeofConducts',
-    component: () => import(/* webpackChunkName: "speakers" */ '../views/COC.vue'),
+    path: '/OC',
+    name: 'OrganisingCommittee',
+    component: () => import('../views/OrganisingCommittee.vue'),
     meta: {
-      title: 'Code of Conducts | FoLST2021',
-      color: 'white'
-    }
-  },
-  {
-    path: '/tc',
-    name: 'ParticipationTerms',
-    component: () => import(/* webpackChunkName: "ParticipationTerms" */ '../views/TC.vue'),
-    meta: {
-      title: 'Participation Terms & Privacy Policy | FoLST2021',
+      title: 'Organising Committee | FoLST2021',
       color: 'white'
     }
   },

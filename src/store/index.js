@@ -34,6 +34,24 @@ export default new Vuex.Store({
           showBottomNav: true,
         },
       },
+      {
+        text: "Committee",
+        to: "/OC",
+        icon: 'mdi-account-switch',
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+        },
+      },
+      {
+        text: "Register",
+        to: "/registration",
+        icon: 'mdi-star',
+        meta: {
+          showToolbar: true,
+          showBottomNav: false,
+        },
+      },
       // {
       //   text: "Team",
       //   to: "/team",

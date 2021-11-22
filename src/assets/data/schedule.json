@@ -22,7 +22,7 @@
                 "startTime": "19:00",
                 "endTime": "21:00",
                 "session": 111
-            }      
+            }
         ]
     },
     {
@@ -44,7 +44,7 @@
                 "endTime": "15:00",
                 "session": 105
             },
-            
+
             {
                 "startTime": "15:30",
                 "endTime": "16:40",
@@ -75,14 +75,8 @@
                 "startTime": "15:40",
                 "endTime": "17:00",
                 "session": 109
-            },
-            
-            {
-                "startTime": "08:30",
-                "endTime": "09:25",
-                "session": 109
             }
-           
+
         ]
     }
 ]

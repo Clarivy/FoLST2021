@@ -28,7 +28,7 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          :src="require('@/assets/img/logo.png')"
+          :src="require('@/assets/img/logo.webp')"
           transition="scale-transition"
           width="35"
         />
@@ -69,7 +69,6 @@
       aria-label="Share Button"
       icon
       v-on:click="shareMe"
-      class="hidden-sm-and-up"
     >
       <v-icon>mdi-share-variant</v-icon>
     </v-btn>
@@ -79,6 +78,8 @@
 <script>
 // import FDK from "@/config/firebase";
 import { mapGetters, mapMutations } from "vuex";
+import register from "@/assets/data/registration.json"
+
 export default {
   data: () => ({
     timeout: 6000,
@@ -92,6 +93,9 @@ export default {
     ...mapMutations(["toggleDrawer"]),
     onClick(e, item) {
       e.stopPropagation();
+      if(item.to === "/registration") {
+        window.open(register.link);
+      }
       if (item.to || !item.href) return;
       this.$vuetify.goTo(item.href);
     },
@@ -110,7 +114,7 @@ export default {
         navigator
           .share({
             title: "FoLST2021",
-            url: "https://devfestindia.com",
+            url: "https://folst2021.com",
           })
           .then(() => {
             console.log("Thanks for sharing");
