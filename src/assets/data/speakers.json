@@ -19,8 +19,7 @@
         "id": "103",
         "name":"Li, Huaiyu",
         "company": {
-            "name":"StartHub",
-            "designation":"CEO"
+            "name":"StartHub"
         },
         "image": "lihuaiyu.webp",
         "bio": "",
@@ -467,7 +466,6 @@
         "id": "131",
         "name":"Zhang, Yuehua",
         "company": {
-            "designation":"CEO",
             "name":"JING MEDICINE"
         },
         "image": "zhangyuhua.webp",
@@ -546,7 +544,6 @@
         "id": "136",
         "name":"Zhu, Jidong",
         "company": {
-            "designation":"CEO",
             "name":"ETERN BIOLOGY"
         },
         "image": "zhujidong.webp",

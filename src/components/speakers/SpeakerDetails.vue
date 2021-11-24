@@ -28,9 +28,10 @@
                 <b>{{ data.name }}</b>
               </p>
               <p class="google-font mt-1" style="font-size:100%">
-                {{ data.company.designation }}
-                <span v-if="data.company.name">,&nbsp;</span>
-                {{ data.company.name }}
+                <span v-if="data.company.name">{{ data.company.designation }} &nbsp;</span>
+
+                <span v-if="data.company.name">{{ data.company.name }}</span>
+
               </p>
               <!-- {{data.social}} -->
               <socialMediaDetails class="pl-0 ml-0" :socaillinks="data.social" />
