@@ -41,7 +41,7 @@
         "schedule": [
             {
                 "startTime": "8:30",
-                "endTime": "8:50",
+                "endTime": "10:10",
                 "session": 103
             },
             {
@@ -50,7 +50,7 @@
                 "session": 113
             },
             {
-                "startTime": "10:20",
+                "startTime": "10:30",
                 "endTime": "12:00",
                 "session": 104
             },
@@ -102,7 +102,7 @@
             },
             {
                 "startTime": "16:00",
-                "endTime": "17:20",
+                "endTime": "17:00",
                 "session": 109
             },
             {

@@ -38,7 +38,7 @@
         "date": "",
         "chairs": " Hu, Ji & Tong, Xiajing",
         "speakers": [
-            102,113,126,128,137
+            102,113,126,137,128
         ]
     },
     {
@@ -52,7 +52,7 @@
         "date": "",
         "chairs": "Chen, Jia & Ma, Hanhui",
         "speakers": [
-            116,135,125,124,139
+            125,135,124,116,139
         ]
     },
     {
@@ -66,7 +66,7 @@
         "date": "",
         "chairs": "Hu, Ji & Tong, Xiajing",
         "speakers": [
-            109,118,136,114
+            118,136,114,109
         ]
     },
     {
@@ -94,7 +94,7 @@
         "date": "",
         "chairs": "Liu, Zhijie & Yang, Haitao",
         "speakers": [
-            119,130,133,141
+            119,133,130,145
         ]
     },
     {
@@ -108,21 +108,21 @@
         "date": "",
         "chairs": "Lin, Chao-Po & Zhang, Hui",
         "speakers": [
-            108,110,122,129,134,111
+            110,108,122,134,129,111,142
         ]
     },
     {
         "id": "109",
         "slide":"",
         "title":"Translational Research",
-        "description":"16:00-17:20 Session XII: Translational Research\n16:00-16:20 [T39] LI, Huaiyu | 敏捷创业 助力科创企业从0 到1\n16:20-16:40 [T40] WANG, Lijie | 新型碱基编辑系统的构建与应用\n16:40-17:00 [T41] ZENG, Li | 做好科研成果转化的赋能者，搭建起连接实验室到临床的桥梁",
+        "description":"16:00-17:20 Session XII: Translational Research\n16:00-16:20 [T39] LI, Huaiyu | 敏捷创业 助力科创企业从0 到1\n16:20-16:40 [T40] WANG, Lijie | 新型碱基编辑系统的构建与应用\n16:40-17:00 [T41] SHEN, Siyu | 做好科研成果转化的赋能者，搭建起连接实验室到临床的桥梁",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "chairs": "Xu, Wenqing & Zhong, Guisheng",
         "speakers": [
-            103, 120, 131
+            103, 120, 146
         ]
     },
     {
