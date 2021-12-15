@@ -13,9 +13,9 @@
           {{ item.startTime }}
         </p>
         <p style="font-size:80%" class="ma-0 google-font">{{ item.endTime }}</p>
-        <p class="mt-1 google-font" style="font-size:70%">
-          <b style="color:grey">GMT (+08:00)</b>
-        </p>
+<!--        <p class="mt-1 google-font" style="font-size:70%">-->
+<!--          <b style="color:grey">GMT (+08:00)</b>-->
+<!--        </p>-->
       </v-col>
       <v-col
         class="my-0"

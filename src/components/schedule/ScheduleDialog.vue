@@ -95,11 +95,8 @@
                 {{ data.track }}</v-chip
               >
               <v-chip small pill>{{ data.format }}</v-chip>
-              <p class="google-font my-1 mt-4" style="font-size: 110%">
-                <b>Date:</b> {{ data.date }}
-              </p>
-              <p class="google-font my-1" style="font-size: 110%">
-                <b>Duration:</b> {{ data.timeDuration }} min
+              <p class="google-font my-1" style="font-size: 110%" v-show="data.chairs">
+                <b>Chairs:</b> {{ data.chairs }}
               </p>
               <p class="google-font my-1" style="font-size: 110%; white-space: pre-wrap;">
                 <b>Description:</b> <br/>
