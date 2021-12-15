@@ -98,10 +98,10 @@
               <p class="google-font my-1" style="font-size: 110%" v-show="data.chairs">
                 <b>Chairs:</b> {{ data.chairs }}
               </p>
-              <p class="google-font my-1" style="font-size: 110%; white-space: pre-wrap;">
-                <b>Description:</b> <br/>
-                {{ data.description }}
-              </p>
+              <div class="google-font my-1" style="font-size: 110%; white-space: pre-line;">
+                <b>Description:</b><br/>
+                {{data.description}}
+              </div>
               <v-chip
                 v-if="data.slide"
                 :href="data.slide"
