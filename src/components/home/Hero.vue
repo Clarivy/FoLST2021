@@ -34,6 +34,7 @@
           :href = "register.link"
           class="google-font mr-3 mb-3"
           target="_blank"
+          disabled
           >Register for the conference</v-btn
         >
       </v-col>

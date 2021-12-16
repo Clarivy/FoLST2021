@@ -194,8 +194,21 @@
     {
         "id": "115",
         "slide":"",
+        "title":"Awards",
+        "description":"17:00-17:20 Awards",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "timeDuration": "",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "116",
+        "slide":"",
         "title":"Closing Remarks",
-        "description":"17:00-17:20 Awards\n17:20-17:30 Closing remarks",
+        "description":"17:20-17:30 Closing remarks",
         "track": "General",
         "link": "",
         "format": "Day 3",
